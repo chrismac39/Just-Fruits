@@ -5,6 +5,11 @@ It contains synthesis-specific artwork, design notes, and Workshop draft
 materials. The project is an early scaffold: new goods, location assignments,
 consolidation rules, and production changes have not yet been implemented.
 
+The planned playset is more vanilla-friendly: vanilla EU5 remains the map
+baseline, with Historical RGOs - Global and Just Goods. Just Goods requires
+Community Mod Framework, so CMF is an indirect dependency. More Locations is
+intentionally out of scope for this version.
+
 The art files are stored under `main_menu/gfx/` in EU5's game-content layout.
 The Workshop description and thumbnail are under `workshop/`. See
 [the design notes](docs/RGO-Synthesis-Design.md) and

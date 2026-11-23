@@ -11,9 +11,8 @@ implementation details still need to be researched and built.
 The former Concordia `rgo-synthesis` profile targeted EU5 1.4.5 and reused
 RGO Harmony's compatibility payload unchanged. This standalone repository
 contains no Synthesis goods, location assignments, consolidation rules, or
-production changes yet.
-RGO Synthesis is intended to replace Fruits Expanded integration in the
-playset; Fruits Expanded is not a dependency.
+production changes yet. RGO Synthesis is intended to replace Fruits Expanded
+integration in the playset; Fruits Expanded is not a dependency.
 
 ## Objective and design rationale
 
@@ -98,18 +97,22 @@ implementation.
 
 ## Playset and compatibility baseline
 
-The initial Synthesis playset plan starts from RGO Harmony's current playset
-and compatibility payload. Required upstream items and Workshop load order:
+This version uses vanilla EU5's map and location set as its baseline; More
+Locations is intentionally not a dependency. The planned upstream requirements
+and load order are:
 
-1. Community Mod Framework
-2. More Locations
-3. Global Historical RGOs
-4. Just Goods
-5. RGO - Synthesis
+1. Community Mod Framework (required by Just Goods)
+2. Historical RGOs - Global
+3. Just Goods
+4. RGO - Synthesis
 
-The planned playset includes Just Goods 1.1 and targets EU5 1.4.5. Synthesis
-is intended to take Fruits Expanded's place; Fruits Expanded should not be
-required or included in this playset.
+Just Goods 1.1 and EU5 1.4.5 are the current design targets. Just Goods
+requires Community Mod Framework, making CMF a transitive dependency of
+Synthesis. The exact precedence and compatibility treatment among vanilla,
+Historical RGOs - Global, and Just Goods must be established through a fresh
+source audit; no map assignments are implemented yet. Synthesis is intended
+to take Fruits Expanded's place, and Fruits Expanded should not be required
+or included in this playset.
 
 ## Production-chain question: grapes and wine
 
@@ -137,8 +140,10 @@ deciding whether or how to implement it.
    adequately represent their agricultural economies.
 6. Treat location mapping and any consolidation beyond the Phase 1 taxonomy
    as separately reviewable decisions.
-7. Maintain compatibility with EU5 1.4.5, Just Goods 1.1, More Locations, and
-   the existing RGO Harmony ecosystem where practical.
+7. Maintain compatibility with EU5 1.4.5, Just Goods 1.1, Historical RGOs -
+   Global, and Just Goods' transitive Community Mod Framework dependency.
+   Keep the vanilla map as the base; More Locations is out of scope for this
+   version.
 
 ## Desired outcome
 
