@@ -296,39 +296,39 @@ listed areas; those cells show the exact scope ID.
 
 | Location | Province | Area | Climate | Vegetation | Vanilla RGO | Global Historical RGO | Just Goods startup | Effective start | Proposed RGO | Review notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Kokrajhar (`kokrajhar`) | Baro Bhuyan (`baro_bhuyan_province`) | Assam (`assam_area`) | `subtropical` | `forest` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Lakhimpur (`lakhimpur`) | Chutia (`chutia_province`) | Assam (`assam_area`) | `subtropical` | `forest` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Dhansiri (`dhansiri`) | Kachari (`kachari_province`) | Assam (`assam_area`) | `subtropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Jaintiapur (`jaintiapur`) | Meghalaya (`meghalaya_province`) | Assam (`assam_area`) | `subtropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Lyngngam (`lyngngam`) | Meghalaya (`meghalaya_province`) | Assam (`assam_area`) | `subtropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Raipur (`raipur_bengal`) | Bishnupur (`bishnupur_province`) | Bengal (`bengal_area`) | `tropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Barbakaabad (`barbakaabad`) | Devkot (`devkot_province`) | Bengal (`bengal_area`) | `subtropical` | `woods` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Muktagacha (`muktagacha`) | Mymensingh (`mymensingh_province`) | Bengal (`bengal_area`) | `subtropical` | `woods` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Patharkandi (`patharkandi`) | Sylhet (`sylhet_province`) | Bengal (`bengal_area`) | `subtropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Mara (`mara_india`) | Kuki (`kuki_province`) | Zo Hills (`hill_area`) | `subtropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Chai (`chai`) | Hazaribagh (`hazaribagh_province`) | Jharkhand (`jharkhand_area`) | `subtropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Untari (`untari`) | Palamau (`palamau_province`) | Jharkhand (`jharkhand_area`) | `subtropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Gidhaur (`gidhaur`) | Bhagalpur (`bhagalpur_province`) | Mithila and Magadh (`mithila_area`) | `subtropical` | `forest` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Hajipur (`hajipur`) | Bhagalpur (`bhagalpur_province`) | Mithila and Magadh (`mithila_area`) | `subtropical` | `farmland` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Kulada (`kulada`) | Kangoda (`ganjam_garjats`) | Orissa (`orissa_area`) | `tropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Gunupur (`gunupur`) | Kamala Mandala (`kalahandi_garjat`) | Orissa (`orissa_area`) | `tropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Nilakamberu (`nilakamberu`) | Kamala Mandala (`kalahandi_garjat`) | Orissa (`orissa_area`) | `tropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Jyotipur (`jyotipur`) | Keonjhar (`keonjhar_province`) | Orissa (`orissa_area`) | `subtropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Ratnagiri (`ratnagiri`) | Rajabandi (`rajabandi`) | Orissa (`orissa_area`) | `tropical` | `grasslands` | `fruit` | `fruit` | ? | `fruit` |  |  |
+| Kokrajhar (`kokrajhar`) | Baro Bhuyan (`baro_bhuyan_province`) | Assam (`assam_area`) | `subtropical` | `forest` | `fruit` | `fruit` | ? | `fruit` | `oldworld_tropical_orchard` |  |
+| Lakhimpur (`lakhimpur`) | Chutia (`chutia_province`) | Assam (`assam_area`) | `subtropical` | `forest` | `fruit` | `fruit` | ? | `fruit` | `rice` |  |
+| Dhansiri (`dhansiri`) | Kachari (`kachari_province`) | Assam (`assam_area`) | `subtropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `coconut` |  |
+| Jaintiapur (`jaintiapur`) | Meghalaya (`meghalaya_province`) | Assam (`assam_area`) | `subtropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `citrus_orchard` |  |
+| Lyngngam (`lyngngam`) | Meghalaya (`meghalaya_province`) | Assam (`assam_area`) | `subtropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `mango` |  |
+| Raipur (`raipur_bengal`) | Bishnupur (`bishnupur_province`) | Bengal (`bengal_area`) | `tropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `banana` |  |
+| Barbakaabad (`barbakaabad`) | Devkot (`devkot_province`) | Bengal (`bengal_area`) | `subtropical` | `woods` | `fruit` | `fruit` | ? | `fruit` | `mango` |  |
+| Muktagacha (`muktagacha`) | Mymensingh (`mymensingh_province`) | Bengal (`bengal_area`) | `subtropical` | `woods` | `fruit` | `fruit` | ? | `fruit` | `oldworld_tropical_orchard` |  |
+| Patharkandi (`patharkandi`) | Sylhet (`sylhet_province`) | Bengal (`bengal_area`) | `subtropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `mango` |  |
+| Mara (`mara_india`) | Kuki (`kuki_province`) | Zo Hills (`hill_area`) | `subtropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `oldworld_tropical_orchard` |  |
+| Chai (`chai`) | Hazaribagh (`hazaribagh_province`) | Jharkhand (`jharkhand_area`) | `subtropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `oldworld_tropical_orchard` |  |
+| Untari (`untari`) | Palamau (`palamau_province`) | Jharkhand (`jharkhand_area`) | `subtropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `sugar` |  |
+| Gidhaur (`gidhaur`) | Bhagalpur (`bhagalpur_province`) | Mithila and Magadh (`mithila_area`) | `subtropical` | `forest` | `fruit` | `fruit` | ? | `fruit` | `mango` |  |
+| Hajipur (`hajipur`) | Bhagalpur (`bhagalpur_province`) | Mithila and Magadh (`mithila_area`) | `subtropical` | `farmland` | `fruit` | `fruit` | ? | `fruit` | `banana` |  |
+| Kulada (`kulada`) | Kangoda (`ganjam_garjats`) | Orissa (`orissa_area`) | `tropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `oldworld_tropical_orchard` |  |
+| Gunupur (`gunupur`) | Kamala Mandala (`kalahandi_garjat`) | Orissa (`orissa_area`) | `tropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `mango` |  |
+| Nilakamberu (`nilakamberu`) | Kamala Mandala (`kalahandi_garjat`) | Orissa (`orissa_area`) | `tropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `rice` |  |
+| Jyotipur (`jyotipur`) | Keonjhar (`keonjhar_province`) | Orissa (`orissa_area`) | `subtropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `mango` |  |
+| Ratnagiri (`ratnagiri`) | Rajabandi (`rajabandi`) | Orissa (`orissa_area`) | `tropical` | `grasslands` | `fruit` | `fruit` | ? | `fruit` | `coconut` |  |
 
 ### Brazil (`brazil_region`) ? 21 locations
 
 | Location | Province | Area | Climate | Vegetation | Vanilla RGO | Global Historical RGO | Just Goods startup | Effective start | Proposed RGO | Review notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Ariste (`ariste`) | Arua (`arua_province`) | Amazon (`amazon_area`) | `tropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Surui Paiter (`surui_paiter`) | Ji-Parana (`ji_parana_province`) | Guapore (`guapore_area`) | `tropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Moxos (`moxos`) | Mamore (`mamore_province`) | Guapore (`guapore_area`) | `tropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Kajabi (`kajabi`) | Upper Tapajos (`upper_tapajos_province`) | Mato Grosso (`mato_grosso_area`) | `tropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Imbau (`imbau`) | Imbau (`imbau_province`) | Parana (`parana_area`) | `oceanic` | `forest` | `fruit` | `fruit` | ? | `fruit` |  |  |
+| Ariste (`ariste`) | Arua (`arua_province`) | Amazon (`amazon_area`) | `tropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `newworld_tropical_orchard` |  |
+| Surui Paiter (`surui_paiter`) | Ji-Parana (`ji_parana_province`) | Guapore (`guapore_area`) | `tropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `newworld_tropical_orchard` |  |
+| Moxos (`moxos`) | Mamore (`mamore_province`) | Guapore (`guapore_area`) | `tropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `newworld_tropical_orchard` |  |
+| Kajabi (`kajabi`) | Upper Tapajos (`upper_tapajos_province`) | Mato Grosso (`mato_grosso_area`) | `tropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `newworld_tropical_orchard` |  |
+| Imbau (`imbau`) | Imbau (`imbau_province`) | Parana (`parana_area`) | `oceanic` | `forest` | `fruit` | `fruit` | ? | `fruit` | `newworld_tropical_orchard` |  |
 | Lages (`lages`) | Lages (`lages_province`) | Parana (`parana_area`) | `oceanic` | `forest` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| São José dos Pinhais (`sao_jose_pinhais`) | Paranagua (`paranagua_province`) | Parana (`parana_area`) | `oceanic` | `forest` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Porto Tibiriça (`porto_tibirica`) | Piquiri (`piquiri_province`) | Parana (`parana_area`) | `tropical` | `forest` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Piracicaba (`piracicaba`) | Piracicaba (`piracicaba_province`) | Parana (`parana_area`) | `subtropical` | `forest` | `fruit` | `fruit` | ? | `fruit` |  |  |
+| São José dos Pinhais (`sao_jose_pinhais`) | Paranagua (`paranagua_province`) | Parana (`parana_area`) | `oceanic` | `forest` | `fruit` | `fruit` | ? | `fruit` | `pineapple` |  |
+| Porto Tibiriça (`porto_tibirica`) | Piquiri (`piquiri_province`) | Parana (`parana_area`) | `tropical` | `forest` | `fruit` | `fruit` | ? | `fruit` | `newworld_tropical_orchard` |  |
+| Piracicaba (`piracicaba`) | Piracicaba (`piracicaba_province`) | Parana (`parana_area`) | `subtropical` | `forest` | `fruit` | `fruit` | ? | `fruit` | `newworld_tropical_orchard` |  |
 | Sapukaia (`sapukaia`) | Sapukaia (`sapukaia_province`) | Parana (`parana_area`) | `subtropical` | `forest` | `fruit` | `fruit` | ? | `fruit` |  |  |
 | Parnagua (`parnagua`) | Gurgueia (`gurgueia_province`) | Paranaiba (`paranaiba_area`) | `tropical` | `forest` | `fruit` | `fruit` | ? | `fruit` |  |  |
 | Aroas (`aroas`) | Paranaiba (`paranaiba_province`) | Paranaiba (`paranaiba_area`) | `tropical` | `forest` | `fruit` | `fruit` | ? | `fruit` |  |  |
