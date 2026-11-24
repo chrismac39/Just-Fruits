@@ -236,7 +236,7 @@ test("catalog validates configured goods and matches localized crop aliases", as
   try {
     const catalog = await createResearchCatalog(temporaryDirectory);
     assert.equal(catalog.has("fruit"), false);
-    assert.equal(catalog.has("cassava"), true);
+    assert.equal(catalog.has("banana"), true);
     assert.equal(catalog.get("vanilla_food")?.sources.has("vanilla"), true);
     assert.equal(
       catalog.get("just_goods_food")?.sources.has("just-goods"),
@@ -244,14 +244,14 @@ test("catalog validates configured goods and matches localized crop aliases", as
     );
 
     const matches = matchRgoGoods(
-      "Manioc vanilla_food just_goods_food cocoa fruit",
-      "fr",
+      "plantain vanilla_food just_goods_food cocoa fruit",
+      "en",
       catalog,
     );
     assert.deepEqual(
       matches.slice(0, 3).map((match) => [match.goodId, match.preferenceRank]),
       [
-        ["cassava", 1],
+        ["banana", 1],
         ["just_goods_food", 2],
         ["vanilla_food", 2],
       ],

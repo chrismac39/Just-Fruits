@@ -20,6 +20,9 @@ fruit inventory. It creates place-resolution candidates and historical
 evidence reports for human review; it does not change game assignments. See
 [the research workflow](docs/rgo-research.md) for setup and usage.
 
+Cassava, taro, and sweet potato are tracked separately in the sibling
+Just Tubers project; they are not part of this fruit mod's roster.
+
 The earlier Concordia profile used a shared RGO Harmony compatibility map.
 That shared map and Concordia's package snapshots are intentionally not
 included here; compatibility work must be separately reviewed and its source

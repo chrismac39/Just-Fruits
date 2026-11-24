@@ -152,13 +152,13 @@ listed areas; those cells show the exact scope ID.
 
 | Location | Province | Area | Climate | Vegetation | Vanilla RGO | Global Historical RGO | Just Goods startup | Effective start | Proposed RGO | Review notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Biobio (`biobio`) | Pikunmapu (`pikunmapu_province`) | Ngulumapu (`ngulumapu_area`) | `oceanic` | `forest` | `fruit` | `fruit` | ? | `fruit` | `cassava` |  |
+| Biobio (`biobio`) | Pikunmapu (`pikunmapu_province`) | Ngulumapu (`ngulumapu_area`) | `oceanic` | `forest` | `fruit` | `fruit` | ? | `fruit` |  | Cassava proposal transferred to Just Tubers for review. |
 | Manta (`manta`) | Guancavilca (`guancavilca_province`) | Quitu (`quitu_area`) | `arid` | `woods` | `fruit` | `fruit` | ? | `fruit` | `newworld_tropical_orchard` |  |
 | Tsachila (`tsachila`) | Quitu (`quitu_province`) | Quitu (`quitu_area`) | `tropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `newworld_tropical_orchard` |  |
 | Chatuza (`chatuza`) | Cocamas (`cocamas_province`) | Rupa Rupa (`rupa_rupa_area`) | `tropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `newworld_tropical_orchard` |  |
 | Utkhupampa (`utkhupampa`) | Ingatambo (`ingatambo_province`) | Rupa Rupa (`rupa_rupa_area`) | `tropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `newworld_tropical_orchard` |  |
 | Panatahuas (`panatahuas`) | Rupa Rupa (`rupa_rupa_province`) | Rupa Rupa (`rupa_rupa_area`) | `oceanic` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `newworld_tropical_orchard` |  |
-| Sachchaa Mukku (`sachchaa_mukku`) | Chuwi (`chuwi_province`) | Yunga (`yunga_area`) | `continental` | `woods` | `fruit` | `fruit` | ? | `fruit` | `cassava` |  |
+| Sachchaa Mukku (`sachchaa_mukku`) | Chuwi (`chuwi_province`) | Yunga (`yunga_area`) | `continental` | `woods` | `fruit` | `fruit` | ? | `fruit` |  | Cassava proposal transferred to Just Tubers for review. |
 | Guanay (`guanay`) | Yunga (`yunga_province`) | Yunga (`yunga_area`) | `tropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `newworld_tropical_orchard` |  |
 
 ### Arabia (`arabia_region`) ? 58 locations

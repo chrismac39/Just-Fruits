@@ -2,12 +2,12 @@
   "version": 2,
   "plannedRgos": [
     {
-      "id": "cassava",
+      "id": "banana",
       "aliases": {
-        "en": ["cassava", "manioc", "yuca"],
-        "fr": ["manioc"],
-        "es": ["yuca", "mandioca"],
-        "pt": ["mandioca", "macaxeira", "aipim"]
+        "en": ["banana", "bananas", "plantain", "plantains"],
+        "fr": ["banane", "bananier", "plantain"],
+        "es": ["banana", "plátano", "guineo"],
+        "pt": ["banana", "banana-da-terra", "plátano"]
       }
     },
     {
@@ -41,6 +41,26 @@
       }
     },
     {
+      "id": "grapes",
+      "aliases": {
+        "en": ["grape", "grapes", "grape vine", "grapevine"],
+        "fr": ["raisin", "vigne"],
+        "de": ["traube", "weintraube", "weinrebe"],
+        "es": ["uva", "vid"],
+        "pt": ["uva", "videira"]
+      }
+    },
+    {
+      "id": "mango",
+      "aliases": {
+        "en": ["mango", "mangoes", "mango tree"],
+        "fr": ["mangue", "manguier"],
+        "de": ["mango"],
+        "es": ["mango"],
+        "pt": ["manga", "mangueira"]
+      }
+    },
+    {
       "id": "mediterranean_orchard",
       "aliases": {
         "en": ["fig", "fig tree", "pomegranate"],
@@ -71,6 +91,16 @@
       }
     },
     {
+      "id": "pineapple",
+      "aliases": {
+        "en": ["pineapple", "pineapples", "ananas"],
+        "fr": ["ananas"],
+        "de": ["ananas"],
+        "es": ["piña", "ananá"],
+        "pt": ["abacaxi", "ananás"]
+      }
+    },
+    {
       "id": "stonefruit_orchard",
       "aliases": {
         "en": ["plum", "peach", "cherry", "apricot"],
@@ -78,16 +108,6 @@
         "de": ["pflaume", "pfirsich", "kirsche", "aprikose"],
         "es": ["ciruela", "melocotón", "durazno", "cereza", "albaricoque"],
         "pt": ["ameixa", "pêssego", "cereja", "damasco"]
-      }
-    },
-    {
-      "id": "taro",
-      "aliases": {
-        "en": ["taro", "colocasia", "cocoyam"],
-        "fr": ["taro", "colocase"],
-        "de": ["taro", "kolokasie"],
-        "es": ["taro", "colocasia", "malanga"],
-        "pt": ["taro", "inhame"]
       }
     },
     {

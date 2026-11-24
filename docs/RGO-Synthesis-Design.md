@@ -34,16 +34,18 @@ The design responds to two issues with vanilla EU5:
   potential and historical output, but their assignments should reflect that
   distinction.
 
-The design also responds to two issues with Fruits Expanded:
+The design also responds to Fruits Expanded's species-level granularity:
 
 - It adds more botanical granularity than the broader RGO system supports,
   such as separate apple and pear varieties and separate plums, peaches, and
   cherries.
-- It does not isolate key staple crops such as coconuts, taro, and cassava.
+
+Tuber goods are outside this fruit-focused project's scope; cassava, taro, and
+sweet potato are tracked separately in Just Tubers.
 
 Synthesis therefore groups related fruit crops into economically meaningful
-categories while separately representing distinctive tropical staples,
-standalone crops, and Old World / New World agricultural origins.
+categories while separately representing distinctive fruit crops and Old
+World / New World agricultural origins.
 
 ## Phase 1 RGO design
 
@@ -59,9 +61,6 @@ standalone crops, and Old World / New World agricultural origins.
 | New World tropical fruit orchards | Avocado, guava, sapote, cherimoya, and similar indigenous New World tree crops                            | Represent diverse New World tropical orchards and agroforestry without individual goods for each species. |
 | Date palms                        | Date-palm agriculture                                                                                     | Represent the distinctive date-palm economy.                                                              |
 | Coconuts                          | Coconut agriculture                                                                                       | Represent a distinctive tropical staple and coconut-palm economy.                                         |
-| Taro                              | Old World tropical staple crop                                                                            | Represent taro and related Old World tropical staple cultivation.                                         |
-| Cassava                           | New World tropical staple crop                                                                            | Represent cassava / manioc and related New World tropical staples.                                        |
-| Sweet potatoes                   | Sweet potatoes                                                                                           | Keep sweet potato distinct from vanilla potato so its New World origin, warm-climate food role, and post-contact spread to suitable Old World regions can be modeled. |
 | Mango                             | Mango                                                                                                     | Keep mango as a distinct crop in historically supported regions; do not subsume it into Old World tropical orchards. |
 | Grapes                            | Grapes                                                                                                    | Track grape cultivation as an explicit RGO; its production-chain relationship to wine remains a separate open question. |
 | Bananas                           | Bananas                                                                                                  | Keep banana as a distinct Old World tropical crop; model its spread to the Americas through the Columbian Exchange. |
@@ -86,10 +85,9 @@ meaningful agricultural categories:
 - Old World tropical fruit orchards for suitable Old World tropical regions,
   including Southeast Asia.
 - New World tropical fruit orchards for suitable New World tropical regions.
-- Date palms, coconuts, taro, and cassava as distinct agricultural systems or
-  staple crops.
-- Sweet potatoes as a New World staple with post-contact spread to suitable
-  Old World regions.
+- Date palms and coconuts as distinctive agricultural systems.
+- Tuber crops are outside this project's scope; see Just Tubers for cassava,
+  taro, and sweet potato.
 - Mango as a standalone Old World crop in historically supported regions.
 - Grapes as a distinct agricultural RGO; its relationship to vanilla's
   directly extracted wine remains a separate production-chain question.
