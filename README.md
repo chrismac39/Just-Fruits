@@ -15,6 +15,11 @@ The Workshop description and thumbnail are under `workshop/`. See
 [the design notes](docs/RGO-Synthesis-Design.md) and
 [asset workflow](docs/assets.md) before changing these materials.
 
+The repository includes a two-stage RGO research workflow for the 769-location
+fruit inventory. It creates place-resolution candidates and historical
+evidence reports for human review; it does not change game assignments. See
+[the research workflow](docs/rgo-research.md) for setup and usage.
+
 The earlier Concordia profile used a shared RGO Harmony compatibility map.
 That shared map and Concordia's package snapshots are intentionally not
 included here; compatibility work must be separately reviewed and its source

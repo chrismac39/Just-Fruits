@@ -1,0 +1,142 @@
+{
+  "version": 2,
+  "plannedRgos": [
+    {
+      "id": "cassava",
+      "aliases": {
+        "en": ["cassava", "manioc", "yuca"],
+        "fr": ["manioc"],
+        "es": ["yuca", "mandioca"],
+        "pt": ["mandioca", "macaxeira", "aipim"]
+      }
+    },
+    {
+      "id": "citrus_orchard",
+      "aliases": {
+        "en": ["citrus", "lemon", "lime", "orange", "mandarin", "tangerine"],
+        "fr": ["agrume", "citron", "orange", "mandarine"],
+        "de": ["zitrus", "zitrone", "orange", "mandarine"],
+        "es": ["cítrico", "limón", "naranja", "mandarina"],
+        "pt": ["cítrico", "limão", "laranja", "tangerina"]
+      }
+    },
+    {
+      "id": "coconut",
+      "aliases": {
+        "en": ["coconut", "coconut palm", "copra"],
+        "fr": ["coco", "cocotier"],
+        "de": ["kokosnuss", "kokospalme"],
+        "es": ["coco", "cocotero"],
+        "pt": ["coco", "coqueiro"]
+      }
+    },
+    {
+      "id": "datepalm",
+      "aliases": {
+        "en": ["date palm", "date palm tree", "dates"],
+        "fr": ["palmier dattier", "datte"],
+        "de": ["dattelpalme", "dattel"],
+        "es": ["palmera datilera", "dátil"],
+        "pt": ["tamareira", "tâmara"]
+      }
+    },
+    {
+      "id": "mediterranean_orchard",
+      "aliases": {
+        "en": ["fig", "fig tree", "pomegranate"],
+        "fr": ["figue", "figuier", "grenade"],
+        "de": ["feige", "feigenbaum", "granatapfel"],
+        "es": ["higo", "higuera", "granada"],
+        "pt": ["figo", "figueira", "romã"]
+      }
+    },
+    {
+      "id": "newworld_tropical_orchard",
+      "aliases": {
+        "en": ["avocado", "guava", "sapote", "cherimoya"],
+        "fr": ["avocat", "goyave", "sapotille", "chérimole"],
+        "de": ["avocado", "guave", "sapote", "cherimoya"],
+        "es": ["aguacate", "guayaba", "zapote", "chirimoya"],
+        "pt": ["abacate", "goiaba", "sapoti", "cherimoia"]
+      }
+    },
+    {
+      "id": "oldworld_tropical_orchard",
+      "aliases": {
+        "en": ["jackfruit", "breadfruit", "durian", "rambutan", "mangosteen"],
+        "fr": ["jacquier", "fruit à pain", "durian", "ramboutan", "mangoustan"],
+        "de": ["jackfrucht", "brotfrucht", "durian", "rambutan", "mangostan"],
+        "es": ["yaca", "fruta del pan", "durian", "rambután", "mangostán"],
+        "pt": ["jaca", "fruta-pão", "durião", "rambutão", "mangostão"]
+      }
+    },
+    {
+      "id": "stonefruit_orchard",
+      "aliases": {
+        "en": ["plum", "peach", "cherry", "apricot"],
+        "fr": ["prune", "pêche", "cerise", "abricot"],
+        "de": ["pflaume", "pfirsich", "kirsche", "aprikose"],
+        "es": ["ciruela", "melocotón", "durazno", "cereza", "albaricoque"],
+        "pt": ["ameixa", "pêssego", "cereja", "damasco"]
+      }
+    },
+    {
+      "id": "taro",
+      "aliases": {
+        "en": ["taro", "colocasia", "cocoyam"],
+        "fr": ["taro", "colocase"],
+        "de": ["taro", "kolokasie"],
+        "es": ["taro", "colocasia", "malanga"],
+        "pt": ["taro", "inhame"]
+      }
+    },
+    {
+      "id": "temperate_orchard",
+      "aliases": {
+        "en": ["apple", "pear", "quince"],
+        "fr": ["pomme", "poire", "coing"],
+        "de": ["apfel", "birne", "quitte"],
+        "es": ["manzana", "pera", "membrillo"],
+        "pt": ["maçã", "pera", "marmelo"]
+      }
+    }
+  ],
+  "availableRgoAliases": [
+    {
+      "id": "cocoa",
+      "aliases": {
+        "en": ["cacao", "cocoa"],
+        "fr": ["cacao"],
+        "es": ["cacao"],
+        "pt": ["cacau"]
+      }
+    },
+    {
+      "id": "chili",
+      "aliases": {
+        "en": ["chile", "chili pepper", "chilli"],
+        "fr": ["piment"],
+        "es": ["chile", "ají"],
+        "pt": ["pimenta"]
+      }
+    },
+    {
+      "id": "palmoil",
+      "aliases": {
+        "en": ["oil palm", "palm oil"],
+        "fr": ["palmier à huile"],
+        "es": ["palma aceitera", "aceite de palma"],
+        "pt": ["dendê", "óleo de palma"]
+      }
+    },
+    {
+      "id": "bisons",
+      "aliases": {
+        "en": ["bison", "american bison", "buffalo"],
+        "fr": ["bison d'amérique"],
+        "es": ["bisonte americano"],
+        "pt": ["bisão-americano"]
+      }
+    }
+  ]
+}
