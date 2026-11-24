@@ -237,60 +237,60 @@ listed areas; those cells show the exact scope ID.
 
 | Location | Province | Area | Climate | Vegetation | Vanilla RGO | Global Historical RGO | Just Goods startup | Effective start | Proposed RGO | Review notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Dangbon (`dangbon`) | Tiwi (`tiwi_province`) | Northern Territory (`australian_northern_territory_area`) | `tropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Mara (`mara`) | Wilingura (`wilingura_province`) | Northern Territory (`australian_northern_territory_area`) | `tropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Mutumui (`mutumui`) | Umbindhamu (`umbindhamu_province`) | Yalanji (`australian_yalanji_area`) | `tropical` | `forest` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Wuthathi (`wuthathi`) | Yadhaigana (`yadhaigana_province`) | Yalanji (`australian_yalanji_area`) | `tropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Orambul (`orambul`) | Barna (`barna_province`) | Eastern Australia (`eastern_australia_area`) | `arid` | `sparse` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Waka Waka (`waka_waka`) | Darumbal (`darumbal_province`) | Eastern Australia (`eastern_australia_area`) | `subtropical` | `woods` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Yambina (`yambina`) | Yirandali (`yirandali_province`) | Eastern Australia (`eastern_australia_area`) | `arid` | `sparse` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Balanggarra (`balanggarra`) | Ngarinyin (`ngarinyin_province`) | Northwestern Australia (`northwestern_australia_area`) | `tropical` | `woods` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Bidwell (`bidwell`) | Bombala (`bombala_province`) | Southeastern Australia (`southeastern_australia_area`) | `oceanic` | `forest` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Taungurung (`taungurung`) | Braiakalung (`braiakalung_province`) | Southeastern Australia (`southeastern_australia_area`) | `oceanic` | `forest` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Geelong (`geelong`) | Buandig (`buandig_province`) | Southeastern Australia (`southeastern_australia_area`) | `oceanic` | `grasslands` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Wathaurong (`wathaurong`) | Buandig (`buandig_province`) | Southeastern Australia (`southeastern_australia_area`) | `cold_semi_arid` | `grasslands` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Bindjali (`bindjali`) | Karta-Pintingga (`karta_pintingga_province`) | Southeastern Australia (`southeastern_australia_area`) | `cold_semi_arid` | `grasslands` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Ngunawal (`ngunawal`) | Wemba-Wemba (`wemba_wemba_province`) | Southeastern Australia (`southeastern_australia_area`) | `oceanic` | `forest` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Wotjobaluk (`wotjobaluk`) | Wemba-Wemba (`wemba_wemba_province`) | Southeastern Australia (`southeastern_australia_area`) | `hot_semi_arid` | `woods` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Bangarang (`bangarang`) | Wirrai Durhai (`wirrai_durhai_province`) | Southeastern Australia (`southeastern_australia_area`) | `subtropical` | `woods` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Narrandera (`narrandera`) | Wirrai Durhai (`wirrai_durhai_province`) | Southeastern Australia (`southeastern_australia_area`) | `oceanic` | `forest` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Djiralay (`djiralay`) | Mandurah (`mandurah_province`) | Southwestern Australia (`southwestern_australia_area`) | `mediterranean` | `grasslands` | `fruit` | `fruit` | ? | `fruit` |  |  |
+| Dangbon (`dangbon`) | Tiwi (`tiwi_province`) | Northern Territory (`australian_northern_territory_area`) | `tropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `lumber` |  |
+| Mara (`mara`) | Wilingura (`wilingura_province`) | Northern Territory (`australian_northern_territory_area`) | `tropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `fish` |  |
+| Mutumui (`mutumui`) | Umbindhamu (`umbindhamu_province`) | Yalanji (`australian_yalanji_area`) | `tropical` | `forest` | `fruit` | `fruit` | ? | `fruit` | `legumes` |  |
+| Wuthathi (`wuthathi`) | Yadhaigana (`yadhaigana_province`) | Yalanji (`australian_yalanji_area`) | `tropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `fish` |  |
+| Orambul (`orambul`) | Barna (`barna_province`) | Eastern Australia (`eastern_australia_area`) | `arid` | `sparse` | `fruit` | `fruit` | ? | `fruit` | `lumber` |  |
+| Waka Waka (`waka_waka`) | Darumbal (`darumbal_province`) | Eastern Australia (`eastern_australia_area`) | `subtropical` | `woods` | `fruit` | `fruit` | ? | `fruit` | `wild_game` |  |
+| Yambina (`yambina`) | Yirandali (`yirandali_province`) | Eastern Australia (`eastern_australia_area`) | `arid` | `sparse` | `fruit` | `fruit` | ? | `fruit` | `livestock` |  |
+| Balanggarra (`balanggarra`) | Ngarinyin (`ngarinyin_province`) | Northwestern Australia (`northwestern_australia_area`) | `tropical` | `woods` | `fruit` | `fruit` | ? | `fruit` | `lumber` |  |
+| Bidwell (`bidwell`) | Bombala (`bombala_province`) | Southeastern Australia (`southeastern_australia_area`) | `oceanic` | `forest` | `fruit` | `fruit` | ? | `fruit` | `millet` |  |
+| Taungurung (`taungurung`) | Braiakalung (`braiakalung_province`) | Southeastern Australia (`southeastern_australia_area`) | `oceanic` | `forest` | `fruit` | `fruit` | ? | `fruit` | `legumes` |  |
+| Geelong (`geelong`) | Buandig (`buandig_province`) | Southeastern Australia (`southeastern_australia_area`) | `oceanic` | `grasslands` | `fruit` | `fruit` | ? | `fruit` | `fish` |  |
+| Wathaurong (`wathaurong`) | Buandig (`buandig_province`) | Southeastern Australia (`southeastern_australia_area`) | `cold_semi_arid` | `grasslands` | `fruit` | `fruit` | ? | `fruit` | `livestock` |  |
+| Bindjali (`bindjali`) | Karta-Pintingga (`karta_pintingga_province`) | Southeastern Australia (`southeastern_australia_area`) | `cold_semi_arid` | `grasslands` | `fruit` | `fruit` | ? | `fruit` | `legumes` |  |
+| Ngunawal (`ngunawal`) | Wemba-Wemba (`wemba_wemba_province`) | Southeastern Australia (`southeastern_australia_area`) | `oceanic` | `forest` | `fruit` | `fruit` | ? | `fruit` | `wild_game` |  |
+| Wotjobaluk (`wotjobaluk`) | Wemba-Wemba (`wemba_wemba_province`) | Southeastern Australia (`southeastern_australia_area`) | `hot_semi_arid` | `woods` | `fruit` | `fruit` | ? | `fruit` | `wild_game` |  |
+| Bangarang (`bangarang`) | Wirrai Durhai (`wirrai_durhai_province`) | Southeastern Australia (`southeastern_australia_area`) | `subtropical` | `woods` | `fruit` | `fruit` | ? | `fruit` | `millet` |  |
+| Narrandera (`narrandera`) | Wirrai Durhai (`wirrai_durhai_province`) | Southeastern Australia (`southeastern_australia_area`) | `oceanic` | `forest` | `fruit` | `fruit` | ? | `fruit` | `wild_game` |  |
+| Djiralay (`djiralay`) | Mandurah (`mandurah_province`) | Southwestern Australia (`southwestern_australia_area`) | `mediterranean` | `grasslands` | `fruit` | `fruit` | ? | `fruit` | `fish` |  |
 
 ### Balkans (`balkan_region`) ? 15 locations
 
 | Location | Province | Area | Climate | Vegetation | Vanilla RGO | Global Historical RGO | Just Goods startup | Effective start | Proposed RGO | Review notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Amorgós (`amorgos`) | Naxos (`naxos_province`) | Aegean Archipelago (`aegean_archipelago_area`) | `mediterranean` | `sparse` | `silk` | `fruit` | ? | `fruit` |  |  |
-| Kozara (`kozara`) | Sana (`una_sana_province`) | Bosnia (`bosnia_area`) | `continental` | `woods` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Buzet (`buzet`) | Istria (`istria_province`) | Croatia (`croatia_area`) | `oceanic` | `woods` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Novigrad (`novigrad`) | Northern Dalmatia (`north_dalmatia_province`) | Croatia (`croatia_area`) | `oceanic` | `woods` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Andrítsaina (`andritsaina`) | Ilia (`ilia_province`) | Morea (`morea_area`) | `mediterranean` | `woods` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Kérkyra (`corfu`) | Ionian Islands (`ionian_islands_province`) | Northern Greece (`northern_greece_area`) | `mediterranean` | `forest` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Árta (`arta`) | Southern Epirus (`south_epirus_province`) | Northern Greece (`northern_greece_area`) | `mediterranean` | `grasslands` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Fársala (`farsala`) | Thessaly (`thessaly_province`) | Northern Greece (`northern_greece_area`) | `mediterranean` | `farmland` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Peja (`peja`) | Kosovo (`kosovo_province`) | Serbia (`serbia_area`) | `subtropical` | `grasslands` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Jagodina (`jagodina`) | Toplica (`toplica_province`) | Serbia (`serbia_area`) | `continental` | `grasslands` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Arilje (`arilje`) | Zlatibor (`zlatibor_province`) | Serbia (`serbia_area`) | `continental` | `forest` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Pakrac (`pakrac`) | Podravina (`bjelovar_province`) | Slavonia (`slavonia_area`) | `continental` | `woods` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Hayrabolu (`hayrabolu`) | Dardanelles (`dardanelles_province`) | Thrace (`thrace_area`) | `mediterranean` | `grasslands` | `fur` | `fruit` | ? | `fruit` |  |  |
-| Ormenio (`ormenio`) | Rhodopes (`rhodopes_province`) | Thrace (`thrace_area`) | `subtropical` | `woods` | `wine` | `fruit` | ? | `fruit` |  |  |
-| Strelcha (`strelcha`) | Zagore (`zagore_province`) | Thrace (`thrace_area`) | `subtropical` | `woods` | `fruit` | `fruit` | ? | `fruit` |  |  |
+| Amorgós (`amorgos`) | Naxos (`naxos_province`) | Aegean Archipelago (`aegean_archipelago_area`) | `mediterranean` | `sparse` | `silk` | `fruit` | ? | `fruit` | `silk` |  |
+| Kozara (`kozara`) | Sana (`una_sana_province`) | Bosnia (`bosnia_area`) | `continental` | `woods` | `fruit` | `fruit` | ? | `fruit` | `temperate_orchard` |  |
+| Buzet (`buzet`) | Istria (`istria_province`) | Croatia (`croatia_area`) | `oceanic` | `woods` | `fruit` | `fruit` | ? | `fruit` | `stonefruit_orchard` |  |
+| Novigrad (`novigrad`) | Northern Dalmatia (`north_dalmatia_province`) | Croatia (`croatia_area`) | `oceanic` | `woods` | `fruit` | `fruit` | ? | `fruit` | `stonefruit_orchard` |  |
+| Andrítsaina (`andritsaina`) | Ilia (`ilia_province`) | Morea (`morea_area`) | `mediterranean` | `woods` | `fruit` | `fruit` | ? | `fruit` | `silk` |  |
+| Kérkyra (`corfu`) | Ionian Islands (`ionian_islands_province`) | Northern Greece (`northern_greece_area`) | `mediterranean` | `forest` | `fruit` | `fruit` | ? | `fruit` | `grapes` |  |
+| Árta (`arta`) | Southern Epirus (`south_epirus_province`) | Northern Greece (`northern_greece_area`) | `mediterranean` | `grasslands` | `fruit` | `fruit` | ? | `fruit` | `citrus_orchard` |  |
+| Fársala (`farsala`) | Thessaly (`thessaly_province`) | Northern Greece (`northern_greece_area`) | `mediterranean` | `farmland` | `fruit` | `fruit` | ? | `fruit` | `livestock` |  |
+| Peja (`peja`) | Kosovo (`kosovo_province`) | Serbia (`serbia_area`) | `subtropical` | `grasslands` | `fruit` | `fruit` | ? | `fruit` | `silk` |  |
+| Jagodina (`jagodina`) | Toplica (`toplica_province`) | Serbia (`serbia_area`) | `continental` | `grasslands` | `fruit` | `fruit` | ? | `fruit` | `temperate_orchard` |  |
+| Arilje (`arilje`) | Zlatibor (`zlatibor_province`) | Serbia (`serbia_area`) | `continental` | `forest` | `fruit` | `fruit` | ? | `fruit` | `temperate_orchard` |  |
+| Pakrac (`pakrac`) | Podravina (`bjelovar_province`) | Slavonia (`slavonia_area`) | `continental` | `woods` | `fruit` | `fruit` | ? | `fruit` | `grapes` |  |
+| Hayrabolu (`hayrabolu`) | Dardanelles (`dardanelles_province`) | Thrace (`thrace_area`) | `mediterranean` | `grasslands` | `fur` | `fruit` | ? | `fruit` | `mediterranean_orchard` |  |
+| Ormenio (`ormenio`) | Rhodopes (`rhodopes_province`) | Thrace (`thrace_area`) | `subtropical` | `woods` | `wine` | `fruit` | ? | `fruit` | `grapes` |  |
+| Strelcha (`strelcha`) | Zagore (`zagore_province`) | Thrace (`thrace_area`) | `subtropical` | `woods` | `fruit` | `fruit` | ? | `fruit` | `stonefruit_orchard` |  |
 
 ### Baltic (`baltic_region`) ? 11 locations
 
 | Location | Province | Area | Climate | Vegetation | Vanilla RGO | Global Historical RGO | Just Goods startup | Effective start | Proposed RGO | Review notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Tukums (`tukums`) | Semigalia (`semigalia_province`) | `baltic_area` | `continental` | `woods` | `fur` | `fruit` | ? | `fruit` |  |  |
-| Kowal (`kowal`) | Kuyavia (`kuyavia_province`) | Central Poland (`central_poland_area`) | `continental` | `grasslands` | `wool` | `fruit` | ? | `fruit` |  |  |
-| Uniejów (`uniejow`) | Sieradz (`sieradz_province`) | Central Poland (`central_poland_area`) | `continental` | `woods` | `wool` | `fruit` | ? | `fruit` |  |  |
-| Wschowa (`wschowa`) | Kościan (`koscian_province`) | Greater Poland (`greater_poland_area`) | `continental` | `woods` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Chodzież (`chodziez`) | Żnin (`znin_province`) | Greater Poland (`greater_poland_area`) | `continental` | `woods` | `iron` | `fruit` | ? | `fruit` |  |  |
-| Kaunas (`kaunas`) | Kaunas (`kaunas_province`) | Lithuania (`lithuania_area`) | `continental` | `woods` | `wool` | `fruit` | ? | `fruit` |  |  |
-| Wehlau (`wehlau`) | Lower Prussia (`lower_prussia_province`) | Prussia (`prussia_area`) | `continental` | `woods` | `fur` | `fruit` | ? | `fruit` |  |  |
-| Morąg (`morag`) | Upper Prussia (`upper_prussia_province`) | Prussia (`prussia_area`) | `continental` | `woods` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Góra (`gora`) | Głogów (`glogow_province`) | Silesia (`silesia_area`) | `continental` | `woods` | `wool` | `fruit` | ? | `fruit` |  |  |
-| Złotoryja (`zlotoryja`) | Legnica (`legnica_province`) | Silesia (`silesia_area`) | `continental` | `grasslands` | `goods_gold` | `fruit` | ? | `fruit` |  |  |
-| Brzeg (`brzeg`) | Wrocław (`wroclaw_province`) | Silesia (`silesia_area`) | `continental` | `farmland` | `fruit` | `fruit` | ? | `fruit` |  |  |
+| Tukums (`tukums`) | Semigalia (`semigalia_province`) | `baltic_area` | `continental` | `woods` | `fur` | `fruit` | ? | `fruit` | `temperate_orchard` |  |
+| Kowal (`kowal`) | Kuyavia (`kuyavia_province`) | Central Poland (`central_poland_area`) | `continental` | `grasslands` | `wool` | `fruit` | ? | `fruit` | `stonefruit_orchard` |  |
+| Uniejów (`uniejow`) | Sieradz (`sieradz_province`) | Central Poland (`central_poland_area`) | `continental` | `woods` | `wool` | `fruit` | ? | `fruit` | `temperate_orchard` |  |
+| Wschowa (`wschowa`) | Kościan (`koscian_province`) | Greater Poland (`greater_poland_area`) | `continental` | `woods` | `fruit` | `fruit` | ? | `fruit` | `temperate_orchard` |  |
+| Chodzież (`chodziez`) | Żnin (`znin_province`) | Greater Poland (`greater_poland_area`) | `continental` | `woods` | `iron` | `fruit` | ? | `fruit` | `temperate_orchard` |  |
+| Kaunas (`kaunas`) | Kaunas (`kaunas_province`) | Lithuania (`lithuania_area`) | `continental` | `woods` | `wool` | `fruit` | ? | `fruit` | `temperate_orchard` |  |
+| Wehlau (`wehlau`) | Lower Prussia (`lower_prussia_province`) | Prussia (`prussia_area`) | `continental` | `woods` | `fur` | `fruit` | ? | `fruit` | `wheat` |  |
+| Morąg (`morag`) | Upper Prussia (`upper_prussia_province`) | Prussia (`prussia_area`) | `continental` | `woods` | `fruit` | `fruit` | ? | `fruit` | `temperate_orchard` |  |
+| Góra (`gora`) | Głogów (`glogow_province`) | Silesia (`silesia_area`) | `continental` | `woods` | `wool` | `fruit` | ? | `fruit` | `temperate_orchard` |  |
+| Złotoryja (`zlotoryja`) | Legnica (`legnica_province`) | Silesia (`silesia_area`) | `continental` | `grasslands` | `goods_gold` | `fruit` | ? | `fruit` | `stone` |  |
+| Brzeg (`brzeg`) | Wrocław (`wroclaw_province`) | Silesia (`silesia_area`) | `continental` | `farmland` | `fruit` | `fruit` | ? | `fruit` | `stonefruit_orchard` |  |
 
 ### Bengal (`bengal_region`) ? 19 locations
 
