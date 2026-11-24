@@ -228,10 +228,10 @@ listed areas; those cells show the exact scope ID.
 
 | Location | Province | Area | Climate | Vegetation | Vanilla RGO | Global Historical RGO | Just Goods startup | Effective start | Proposed RGO | Review notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Deadose (`deadose`) | Bidai (`bidai_province`) | Texas (`texas_area`) | `subtropical` | `forest` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Aays (`aays`) | K'itaish (`kitaish_province`) | Texas (`texas_area`) | `subtropical` | `forest` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Tanimʉʉ (`tanimuu`) | K'itaish (`kitaish_province`) | Texas (`texas_area`) | `subtropical` | `forest` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Sana (`sana_tx`) | Tickanwatic (`tickanwatic_province`) | Texas (`texas_area`) | `subtropical` | `forest` | `fruit` | `fruit` | ? | `fruit` |  |  |
+| Deadose (`deadose`) | Bidai (`bidai_province`) | Texas (`texas_area`) | `subtropical` | `forest` | `fruit` | `fruit` | ? | `fruit` | `maize` |  |
+| Aays (`aays`) | K'itaish (`kitaish_province`) | Texas (`texas_area`) | `subtropical` | `forest` | `fruit` | `fruit` | ? | `fruit` | `maize` |  |
+| Tanimʉʉ (`tanimuu`) | K'itaish (`kitaish_province`) | Texas (`texas_area`) | `subtropical` | `forest` | `fruit` | `fruit` | ? | `fruit` | `maize` |  |
+| Sana (`sana_tx`) | Tickanwatic (`tickanwatic_province`) | Texas (`texas_area`) | `subtropical` | `forest` | `fruit` | `fruit` | ? | `fruit` | `maize` |  |
 
 ### Australia (`australia_region`) ? 18 locations
 
