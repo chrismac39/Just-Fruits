@@ -140,26 +140,26 @@ listed areas; those cells show the exact scope ID.
 
 | Location | Province | Area | Climate | Vegetation | Vanilla RGO | Global Historical RGO | Just Goods startup | Effective start | Proposed RGO | Review notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| İskenderun (`iskenderun`) | Adana (`adana_province`) | Cilicia (`cilicia_area`) | `mediterranean` | `forest` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Malatya (`malatya`) | Malatya (`malatya_province`) | Cilicia (`cilicia_area`) | `cold_semi_arid` | `grasslands` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Mudurnu (`mudurnu`) | Bolu (`bolu_province`) | Pontus (`pontus_area`) | `continental` | `forest` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Amasra (`amasra`) | Safranbolu (`safranbolu_province`) | Pontus (`pontus_area`) | `oceanic` | `forest` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Gerze (`gerze`) | Sinop (`sinop_province`) | Pontus (`pontus_area`) | `oceanic` | `forest` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Karahisar-ı Teke (`karahisar_i_teke`) | Alaiye (`alaiye_province`) | West Anatolia (`west_anatolia_area`) | `mediterranean` | `forest` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Marmaris (`marmaris`) | Muğla (`mugla_province`) | West Anatolia (`west_anatolia_area`) | `mediterranean` | `forest` | `fruit` | `fruit` | ? | `fruit` |  |  |
+| İskenderun (`iskenderun`) | Adana (`adana_province`) | Cilicia (`cilicia_area`) | `mediterranean` | `forest` | `fruit` | `fruit` | ? | `fruit` | `citrus_orchard` |  |
+| Malatya (`malatya`) | Malatya (`malatya_province`) | Cilicia (`cilicia_area`) | `cold_semi_arid` | `grasslands` | `fruit` | `fruit` | ? | `fruit` | `stonefruit_orchard` |  |
+| Mudurnu (`mudurnu`) | Bolu (`bolu_province`) | Pontus (`pontus_area`) | `continental` | `forest` | `fruit` | `fruit` | ? | `fruit` | `stonefruit_orchard` |  |
+| Amasra (`amasra`) | Safranbolu (`safranbolu_province`) | Pontus (`pontus_area`) | `oceanic` | `forest` | `fruit` | `fruit` | ? | `fruit` | `stonefruit_orchard` |  |
+| Gerze (`gerze`) | Sinop (`sinop_province`) | Pontus (`pontus_area`) | `oceanic` | `forest` | `fruit` | `fruit` | ? | `fruit` | `stonefruit_orchard` |  |
+| Karahisar-ı Teke (`karahisar_i_teke`) | Alaiye (`alaiye_province`) | West Anatolia (`west_anatolia_area`) | `mediterranean` | `forest` | `fruit` | `fruit` | ? | `fruit` | `mediterranean_orchard` |  |
+| Marmaris (`marmaris`) | Muğla (`mugla_province`) | West Anatolia (`west_anatolia_area`) | `mediterranean` | `forest` | `fruit` | `fruit` | ? | `fruit` | `mediterranean_orchard` |  |
 
 ### Andes (`andes_region`) ? 8 locations
 
 | Location | Province | Area | Climate | Vegetation | Vanilla RGO | Global Historical RGO | Just Goods startup | Effective start | Proposed RGO | Review notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Biobio (`biobio`) | Pikunmapu (`pikunmapu_province`) | Ngulumapu (`ngulumapu_area`) | `oceanic` | `forest` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Manta (`manta`) | Guancavilca (`guancavilca_province`) | Quitu (`quitu_area`) | `arid` | `woods` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Tsachila (`tsachila`) | Quitu (`quitu_province`) | Quitu (`quitu_area`) | `tropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Chatuza (`chatuza`) | Cocamas (`cocamas_province`) | Rupa Rupa (`rupa_rupa_area`) | `tropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Utkhupampa (`utkhupampa`) | Ingatambo (`ingatambo_province`) | Rupa Rupa (`rupa_rupa_area`) | `tropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Panatahuas (`panatahuas`) | Rupa Rupa (`rupa_rupa_province`) | Rupa Rupa (`rupa_rupa_area`) | `oceanic` | `jungle` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Sachchaa Mukku (`sachchaa_mukku`) | Chuwi (`chuwi_province`) | Yunga (`yunga_area`) | `continental` | `woods` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Guanay (`guanay`) | Yunga (`yunga_province`) | Yunga (`yunga_area`) | `tropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` |  |  |
+| Biobio (`biobio`) | Pikunmapu (`pikunmapu_province`) | Ngulumapu (`ngulumapu_area`) | `oceanic` | `forest` | `fruit` | `fruit` | ? | `fruit` | `cassava` |  |
+| Manta (`manta`) | Guancavilca (`guancavilca_province`) | Quitu (`quitu_area`) | `arid` | `woods` | `fruit` | `fruit` | ? | `fruit` | `newworld_tropical_orchard` |  |
+| Tsachila (`tsachila`) | Quitu (`quitu_province`) | Quitu (`quitu_area`) | `tropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `newworld_tropical_orchard` |  |
+| Chatuza (`chatuza`) | Cocamas (`cocamas_province`) | Rupa Rupa (`rupa_rupa_area`) | `tropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `newworld_tropical_orchard` |  |
+| Utkhupampa (`utkhupampa`) | Ingatambo (`ingatambo_province`) | Rupa Rupa (`rupa_rupa_area`) | `tropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `newworld_tropical_orchard` |  |
+| Panatahuas (`panatahuas`) | Rupa Rupa (`rupa_rupa_province`) | Rupa Rupa (`rupa_rupa_area`) | `oceanic` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `newworld_tropical_orchard` |  |
+| Sachchaa Mukku (`sachchaa_mukku`) | Chuwi (`chuwi_province`) | Yunga (`yunga_area`) | `continental` | `woods` | `fruit` | `fruit` | ? | `fruit` | `cassava` |  |
+| Guanay (`guanay`) | Yunga (`yunga_province`) | Yunga (`yunga_area`) | `tropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `newworld_tropical_orchard` |  |
 
 ### Arabia (`arabia_region`) ? 58 locations
 

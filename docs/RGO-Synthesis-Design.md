@@ -42,8 +42,8 @@ The design also responds to two issues with Fruits Expanded:
 - It does not isolate key staple crops such as coconuts, taro, and cassava.
 
 Synthesis therefore groups related fruit crops into economically meaningful
-categories while separately representing distinctive tropical staples and
-Old World / New World agricultural origins.
+categories while separately representing distinctive tropical staples,
+standalone crops, and Old World / New World agricultural origins.
 
 ## Phase 1 RGO design
 
@@ -51,20 +51,26 @@ Old World / New World agricultural origins.
 
 | Synthesis category                | Fruits Expanded RGOs represented                                                                          | Design intent                                                                                             |
 | --------------------------------- | --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
-| Temperate fruit orchards          | Apples, Western Pears, Eastern Pears                                                                      | Combine temperate orchard fruits into one economic category.                                              |
+| Temperate fruit orchards          | Apples, Western Pears, Eastern Pears, Persimmons                                                          | Combine temperate orchard fruits into one economic category.                                              |
 | Stone fruit orchards              | Plums, Peaches, Cherries                                                                                  | Combine related stone-fruit orchard crops.                                                                |
 | Mediterranean fruit orchards      | Figs, Pomegranates                                                                                        | Represent distinctive Mediterranean and semi-arid fruit cultivation together.                             |
 | Citrus orchards                   | Lemons, both Orange types, Mandarins                                                                      | Consolidate related citrus crops.                                                                         |
-| Old World tropical fruit orchards | Jackfruit, breadfruit, durian, rambutan, mangosteen, and similar indigenous Old World tropical tree crops | Represent diverse Old World tropical orchards and agroforestry without individual goods for each species. |
+| Old World tropical fruit orchards | Jackfruit, breadfruit, durian, rambutan, mangosteen, lychees, and similar indigenous Old World tropical tree crops | Represent diverse Old World tropical orchards and agroforestry without individual goods for each species. |
 | New World tropical fruit orchards | Avocado, guava, sapote, cherimoya, and similar indigenous New World tree crops                            | Represent diverse New World tropical orchards and agroforestry without individual goods for each species. |
 | Date palms                        | Date-palm agriculture                                                                                     | Represent the distinctive date-palm economy.                                                              |
 | Coconuts                          | Coconut agriculture                                                                                       | Represent a distinctive tropical staple and coconut-palm economy.                                         |
 | Taro                              | Old World tropical staple crop                                                                            | Represent taro and related Old World tropical staple cultivation.                                         |
 | Cassava                           | New World tropical staple crop                                                                            | Represent cassava / manioc and related New World tropical staples.                                        |
+| Sweet potatoes                   | Sweet potatoes                                                                                           | Keep sweet potato distinct from vanilla potato so its New World origin, warm-climate food role, and post-contact spread to suitable Old World regions can be modeled. |
+| Mango                             | Mango                                                                                                     | Keep mango as a distinct crop in historically supported regions; do not subsume it into Old World tropical orchards. |
+| Grapes                            | Grapes                                                                                                    | Track grape cultivation as an explicit RGO; its production-chain relationship to wine remains a separate open question. |
+| Bananas                           | Bananas                                                                                                  | Keep banana as a distinct Old World tropical crop; model its spread to the Americas through the Columbian Exchange. |
+| Pineapples                        | Pineapples                                                                                               | Keep pre-contact New World cultivation distinct; model its spread to the Old World through the Columbian Exchange. |
 
 The tropical orchard categories do not absorb goods that are already
-historically distinctive in the design: mango, lychee, and banana for the Old
-World; pineapple, cocoa, and chili for the New World. Nuts are not a separate
+historically distinctive in the design: mango and banana for the Old World;
+pineapple, cocoa, and chili for the New World. Persimmons and lychees remain
+within their respective broad orchard categories. Nuts are not a separate
 RGO; they are abstracted within the appropriate tree-fruit categories.
 
 ### Differences from vanilla EU5
@@ -82,6 +88,15 @@ meaningful agricultural categories:
 - New World tropical fruit orchards for suitable New World tropical regions.
 - Date palms, coconuts, taro, and cassava as distinct agricultural systems or
   staple crops.
+- Sweet potatoes as a New World staple with post-contact spread to suitable
+  Old World regions.
+- Mango as a standalone Old World crop in historically supported regions.
+- Grapes as a distinct agricultural RGO; its relationship to vanilla's
+  directly extracted wine remains a separate production-chain question.
+- Bananas as an Old World crop, with Columbian Exchange introduction to the
+  Americas.
+- Pineapples as a New World crop, with subsequent Columbian Exchange
+  introduction to the Old World.
 
 The specific locations and their final RGO assignments require a separate
 geographic review; these categories do not by themselves authorize a
