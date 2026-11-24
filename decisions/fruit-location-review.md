@@ -165,64 +165,64 @@ listed areas; those cells show the exact scope ID.
 
 | Location | Province | Area | Climate | Vegetation | Vanilla RGO | Global Historical RGO | Just Goods startup | Effective start | Proposed RGO | Review notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| `al_bidda` | Qaṭar (`qatar_province`) | Bahrein (`bahrein_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Aš-Šu'aybah (`ash_shuaybah_hail`) | Hā'il (`hail_province`) | Al-Ḥa'il (`hail_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| An-Nasifah (`an_nasifah`) | Wādī as-Sirhan (`sirhan_province`) | Al-Ḥa'il (`hail_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Qurayyat al-Milh (`qurayyat_al_milh`) | Wādī as-Sirhan (`sirhan_province`) | Al-Ḥa'il (`hail_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| At-Thulayma (`al_thulayma`) | Zubāla (`zubala_province`) | Al-Ḥa'il (`hail_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Al-Mundassah (`al_mundassah`) | Al-Hinakiyah (`hinakiyah_province`) | Hejaz (`hedjaz_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Murayḡan (`murayghan`) | Al-Hinakiyah (`hinakiyah_province`) | Hejaz (`hedjaz_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| `khaybar` | Ḫaibar (`khaybar_province`) | Hejaz (`hedjaz_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Al-Muthainiyah (`al_muthainiyah`) | Ḫulays (`khulays_province`) | Hejaz (`hedjaz_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| `al_muwaylih` | Mīḏyān (`madian_province`) | Hejaz (`hedjaz_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Ghumayqah (`ghumayqah`) | Mecca (`mecca_province`) | Hejaz (`hedjaz_area`) | `arid` | `sparse` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| `yalamlam` | Mecca (`mecca_province`) | Hejaz (`hedjaz_area`) | `arid` | `sparse` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| `medina` | Medina (`medina_province`) | Hejaz (`hedjaz_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| `al_ula` | Wādī al-Qurà (`qura_province`) | Hejaz (`hedjaz_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Az-Zubayir (`az_zubayir`) | Wādī al-Qurà (`qura_province`) | Hejaz (`hedjaz_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| `al_ukhaydir` | Tabūk (`tabuk_province`) | Hejaz (`hedjaz_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| `tabuk_arabia` | Tabūk (`tabuk_province`) | Hejaz (`hedjaz_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| `al_kharabah` | Aṭ-Ṭā'if (`taif_province`) | Hejaz (`hedjaz_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Sufaynah (`sufaynah`) | Aṭ-Ṭā'if (`taif_province`) | Hejaz (`hedjaz_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Umm al-Ghiran (`umm_al_ghiran`) | Aṭ-Ṭā'if (`taif_province`) | Hejaz (`hedjaz_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| `al_hawra` | Umluj (`umluj_province`) | Hejaz (`hedjaz_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| `yanbu_an_nakhil` | Yanbu' (`yanbu_province`) | Hejaz (`hedjaz_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Al-'Aythama (`al_aythamah`) | Al-Hisu (`al_hisu_province`) | Najd (`najd_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Bilghah (`bilghah`) | Al-Hisu (`al_hisu_province`) | Najd (`najd_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Habiyah (`habiyah`) | Wādī ad-Dawāsir (`dawasir_province`) | Najd (`najd_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| `buraydah` | East al-Qaṣīm (`east_qassim_province`) | Najd (`najd_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Uyun al-Jiwa' (`uyun_al_jiwa`) | East al-Qaṣīm (`east_qassim_province`) | Najd (`najd_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| `al_ghazalah` | Fadak (`fadak_province`) | Najd (`najd_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| `al_huwayyit` | Fadak (`fadak_province`) | Najd (`najd_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| `fadak` | Fadak (`fadak_province`) | Najd (`najd_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| `laila` | Lailā (`laila_province`) | Najd (`najd_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Al-Qaiyah (`al_qaiyah`) | Al-Sudayr (`sudair_province`) | Najd (`najd_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| `al_ghat` | Al-Sudayr (`sudair_province`) | Najd (`najd_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| `az_zilfi` | Al-Sudayr (`sudair_province`) | Najd (`najd_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Thadij (`thadij`) | West Al-Qaṣīm (`west_qassim_province`) | Najd (`najd_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| `al_majazah` | Al-Yamāma (`yamama_province`) | Najd (`najd_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| `al_yamamah` | Al-Yamāma (`yamama_province`) | Najd (`najd_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| `tabalah` | 'Abhā (`abha_province`) | North Yemen (`north_yemen_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| `muhayil` | Ḩalī (`hali_province`) | North Yemen (`north_yemen_area`) | `arid` | `sparse` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| `rijal_almaa` | Ḩalī (`hali_province`) | North Yemen (`north_yemen_area`) | `arid` | `grasslands` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| `khamir` | Al-Ḥirda (`hirda_province`) | North Yemen (`north_yemen_area`) | `arid` | `grasslands` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| `shaharah` | Al-Ḥirda (`hirda_province`) | North Yemen (`north_yemen_area`) | `arid` | `grasslands` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| `al_haqu` | Jāzān (`jazan_province`) | North Yemen (`north_yemen_area`) | `arid` | `sparse` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Aš-Šaqiqah (`ash_shaqiqah`) | Ranyah (`ranyah_province`) | North Yemen (`north_yemen_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| `qalat_bishah` | Ranyah (`ranyah_province`) | North Yemen (`north_yemen_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| `najran` | Ṣan'ā (`sana_province`) | North Yemen (`north_yemen_area`) | `arid` | `desert` | `silk` | `fruit` | ? | `fruit` |  |  |
-| `khaybar_janoub` | Tathlith (`tathlith_province`) | North Yemen (`north_yemen_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| `turbah` | Turbah (`turbah_province`) | North Yemen (`north_yemen_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| `nakhal` | Al-Bāţinah (`batina_province`) | Oman (`oman_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| `shinas` | Al-Bāţinah (`batina_province`) | Oman (`oman_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| `al_kamil_wal_wafi` | Masqaṭ (`masqat_province`) | Oman (`oman_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| `nizwa` | Nizwā (`nizwa_province`) | Oman (`oman_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| `al_qara` | Dathīnah (`dathina_province`) | South Yemen (`south_yemen_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| `hudaida` | Al-Ḥudaida (`hudaida_province`) | South Yemen (`south_yemen_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| `musaymir` | Ibb (`ibb_province`) | South Yemen (`south_yemen_area`) | `arid` | `grasslands` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| `baraqish` | Ma'rib (`marib_province`) | South Yemen (`south_yemen_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| As-Salafiyah (`as_salafiyah`) | Zabīd (`zabid_province`) | South Yemen (`south_yemen_area`) | `arid` | `grasslands` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Mikhlaf al-Hubishiyah (`mikhlaf_al_hubishiyah`) | Zabīd (`zabid_province`) | South Yemen (`south_yemen_area`) | `arid` | `grasslands` | `fruit` | `fruit` | ? | `fruit` |  |  |
+| `al_bidda` | Qaṭar (`qatar_province`) | Bahrein (`bahrein_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` | `datepalm` |  |
+| Aš-Šu'aybah (`ash_shuaybah_hail`) | Hā'il (`hail_province`) | Al-Ḥa'il (`hail_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` | `datepalm` |  |
+| An-Nasifah (`an_nasifah`) | Wādī as-Sirhan (`sirhan_province`) | Al-Ḥa'il (`hail_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` | `datepalm` |  |
+| Qurayyat al-Milh (`qurayyat_al_milh`) | Wādī as-Sirhan (`sirhan_province`) | Al-Ḥa'il (`hail_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` | `olives` |  |
+| At-Thulayma (`al_thulayma`) | Zubāla (`zubala_province`) | Al-Ḥa'il (`hail_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` | `datepalm` |  |
+| Al-Mundassah (`al_mundassah`) | Al-Hinakiyah (`hinakiyah_province`) | Hejaz (`hedjaz_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` | `citrus_orchard` |  |
+| Murayḡan (`murayghan`) | Al-Hinakiyah (`hinakiyah_province`) | Hejaz (`hedjaz_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` | `mediterranean_orchard` |  |
+| `khaybar` | Ḫaibar (`khaybar_province`) | Hejaz (`hedjaz_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` | `datepalm` |  |
+| Al-Muthainiyah (`al_muthainiyah`) | Ḫulays (`khulays_province`) | Hejaz (`hedjaz_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` | `mediterranean_orchard` |  |
+| `al_muwaylih` | Mīḏyān (`madian_province`) | Hejaz (`hedjaz_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` | `datepalm` |  |
+| Ghumayqah (`ghumayqah`) | Mecca (`mecca_province`) | Hejaz (`hedjaz_area`) | `arid` | `sparse` | `fruit` | `fruit` | ? | `fruit` | `mediterranean_orchard` |  |
+| `yalamlam` | Mecca (`mecca_province`) | Hejaz (`hedjaz_area`) | `arid` | `sparse` | `fruit` | `fruit` | ? | `fruit` | `datepalm` |  |
+| `medina` | Medina (`medina_province`) | Hejaz (`hedjaz_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` | `datepalm` |  |
+| `al_ula` | Wādī al-Qurà (`qura_province`) | Hejaz (`hedjaz_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` | `citrus_orchard` |  |
+| Az-Zubayir (`az_zubayir`) | Wādī al-Qurà (`qura_province`) | Hejaz (`hedjaz_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` | `mediterranean_orchard` |  |
+| `al_ukhaydir` | Tabūk (`tabuk_province`) | Hejaz (`hedjaz_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` | `grapes` |  |
+| `tabuk_arabia` | Tabūk (`tabuk_province`) | Hejaz (`hedjaz_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` | `grapes` |  |
+| `al_kharabah` | Aṭ-Ṭā'if (`taif_province`) | Hejaz (`hedjaz_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` | `mediterranean_orchard` |  |
+| Sufaynah (`sufaynah`) | Aṭ-Ṭā'if (`taif_province`) | Hejaz (`hedjaz_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` | `stonefruit_orchard` |  |
+| Umm al-Ghiran (`umm_al_ghiran`) | Aṭ-Ṭā'if (`taif_province`) | Hejaz (`hedjaz_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` | `grapes` |  |
+| `al_hawra` | Umluj (`umluj_province`) | Hejaz (`hedjaz_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` | `mango` |  |
+| `yanbu_an_nakhil` | Yanbu' (`yanbu_province`) | Hejaz (`hedjaz_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` | `datepalm` |  |
+| Al-'Aythama (`al_aythamah`) | Al-Hisu (`al_hisu_province`) | Najd (`najd_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` | `citrus_orchard` |  |
+| Bilghah (`bilghah`) | Al-Hisu (`al_hisu_province`) | Najd (`najd_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` | `mediterranean_orchard` |  |
+| Habiyah (`habiyah`) | Wādī ad-Dawāsir (`dawasir_province`) | Najd (`najd_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` | `citrus_orchard` | User's Wadi al-Dawasir entry. |
+| `buraydah` | East al-Qaṣīm (`east_qassim_province`) | Najd (`najd_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` | `datepalm` |  |
+| Uyun al-Jiwa' (`uyun_al_jiwa`) | East al-Qaṣīm (`east_qassim_province`) | Najd (`najd_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` | `grapes` |  |
+| `al_ghazalah` | Fadak (`fadak_province`) | Najd (`najd_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` | `wheat` |  |
+| `al_huwayyit` | Fadak (`fadak_province`) | Najd (`najd_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` | `datepalm` |  |
+| `fadak` | Fadak (`fadak_province`) | Najd (`najd_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` | `datepalm` |  |
+| `laila` | Lailā (`laila_province`) | Najd (`najd_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` | `wheat` |  |
+| Al-Qaiyah (`al_qaiyah`) | Al-Sudayr (`sudair_province`) | Najd (`najd_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` | `datepalm` |  |
+| `al_ghat` | Al-Sudayr (`sudair_province`) | Najd (`najd_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` | `datepalm` |  |
+| `az_zilfi` | Al-Sudayr (`sudair_province`) | Najd (`najd_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` | `datepalm` |  |
+| Thadij (`thadij`) | West Al-Qaṣīm (`west_qassim_province`) | Najd (`najd_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` | `mediterranean_orchard` |  |
+| `al_majazah` | Al-Yamāma (`yamama_province`) | Najd (`najd_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` | `mediterranean_orchard` |  |
+| `al_yamamah` | Al-Yamāma (`yamama_province`) | Najd (`najd_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` | `datepalm` |  |
+| `tabalah` | 'Abhā (`abha_province`) | North Yemen (`north_yemen_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` | `grapes` |  |
+| `muhayil` | Ḩalī (`hali_province`) | North Yemen (`north_yemen_area`) | `arid` | `sparse` | `fruit` | `fruit` | ? | `fruit` | `citrus_orchard` |  |
+| `rijal_almaa` | Ḩalī (`hali_province`) | North Yemen (`north_yemen_area`) | `arid` | `grasslands` | `fruit` | `fruit` | ? | `fruit` | `coffee` |  |
+| `khamir` | Al-Ḥirda (`hirda_province`) | North Yemen (`north_yemen_area`) | `arid` | `grasslands` | `fruit` | `fruit` | ? | `fruit` | `mediterranean_orchard` |  |
+| `shaharah` | Al-Ḥirda (`hirda_province`) | North Yemen (`north_yemen_area`) | `arid` | `grasslands` | `fruit` | `fruit` | ? | `fruit` | `grapes` |  |
+| `al_haqu` | Jāzān (`jazan_province`) | North Yemen (`north_yemen_area`) | `arid` | `sparse` | `fruit` | `fruit` | ? | `fruit` | `citrus_orchard` |  |
+| Aš-Šaqiqah (`ash_shaqiqah`) | Ranyah (`ranyah_province`) | North Yemen (`north_yemen_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` | `datepalm` |  |
+| `qalat_bishah` | Ranyah (`ranyah_province`) | North Yemen (`north_yemen_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` | `datepalm` |  |
+| `najran` | Ṣan'ā (`sana_province`) | North Yemen (`north_yemen_area`) | `arid` | `desert` | `silk` | `fruit` | ? | `fruit` | `grapes` |  |
+| `khaybar_janoub` | Tathlith (`tathlith_province`) | North Yemen (`north_yemen_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` | `datepalm` |  |
+| `turbah` | Turbah (`turbah_province`) | North Yemen (`north_yemen_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` | `datepalm` |  |
+| `nakhal` | Al-Bāţinah (`batina_province`) | Oman (`oman_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` | `datepalm` |  |
+| `shinas` | Al-Bāţinah (`batina_province`) | Oman (`oman_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` | `citrus_orchard` |  |
+| `al_kamil_wal_wafi` | Masqaṭ (`masqat_province`) | Oman (`oman_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` | `datepalm` |  |
+| `nizwa` | Nizwā (`nizwa_province`) | Oman (`oman_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` | `mediterranean_orchard` |  |
+| `al_qara` | Dathīnah (`dathina_province`) | South Yemen (`south_yemen_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` | `grapes` |  |
+| `hudaida` | Al-Ḥudaida (`hudaida_province`) | South Yemen (`south_yemen_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` | `coffee` |  |
+| `musaymir` | Ibb (`ibb_province`) | South Yemen (`south_yemen_area`) | `arid` | `grasslands` | `fruit` | `fruit` | ? | `fruit` | `grapes` |  |
+| `baraqish` | Ma'rib (`marib_province`) | South Yemen (`south_yemen_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` | `mediterranean_orchard` |  |
+| As-Salafiyah (`as_salafiyah`) | Zabīd (`zabid_province`) | South Yemen (`south_yemen_area`) | `arid` | `grasslands` | `fruit` | `fruit` | ? | `fruit` | `datepalm` |  |
+| Mikhlaf al-Hubishiyah (`mikhlaf_al_hubishiyah`) | Zabīd (`zabid_province`) | South Yemen (`south_yemen_area`) | `arid` | `grasslands` | `fruit` | `fruit` | ? | `fruit` | `mediterranean_orchard` |  |
 
 ### Aridoamerica (`aridoamerica_region`) ? 4 locations
 
