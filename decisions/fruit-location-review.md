@@ -325,56 +325,57 @@ listed areas; those cells show the exact scope ID.
 | Moxos (`moxos`) | Mamore (`mamore_province`) | Guapore (`guapore_area`) | `tropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `newworld_tropical_orchard` |  |
 | Kajabi (`kajabi`) | Upper Tapajos (`upper_tapajos_province`) | Mato Grosso (`mato_grosso_area`) | `tropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `newworld_tropical_orchard` |  |
 | Imbau (`imbau`) | Imbau (`imbau_province`) | Parana (`parana_area`) | `oceanic` | `forest` | `fruit` | `fruit` | ? | `fruit` | `newworld_tropical_orchard` |  |
-| Lages (`lages`) | Lages (`lages_province`) | Parana (`parana_area`) | `oceanic` | `forest` | `fruit` | `fruit` | ? | `fruit` |  |  |
+| Lages (`lages`) | Lages (`lages_province`) | Parana (`parana_area`) | `oceanic` | `forest` | `fruit` | `fruit` | ? | `fruit` |  | Cassava decision transferred to Just Tubers. |
 | São José dos Pinhais (`sao_jose_pinhais`) | Paranagua (`paranagua_province`) | Parana (`parana_area`) | `oceanic` | `forest` | `fruit` | `fruit` | ? | `fruit` | `pineapple` |  |
 | Porto Tibiriça (`porto_tibirica`) | Piquiri (`piquiri_province`) | Parana (`parana_area`) | `tropical` | `forest` | `fruit` | `fruit` | ? | `fruit` | `newworld_tropical_orchard` |  |
 | Piracicaba (`piracicaba`) | Piracicaba (`piracicaba_province`) | Parana (`parana_area`) | `subtropical` | `forest` | `fruit` | `fruit` | ? | `fruit` | `newworld_tropical_orchard` |  |
-| Sapukaia (`sapukaia`) | Sapukaia (`sapukaia_province`) | Parana (`parana_area`) | `subtropical` | `forest` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Parnagua (`parnagua`) | Gurgueia (`gurgueia_province`) | Paranaiba (`paranaiba_area`) | `tropical` | `forest` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Aroas (`aroas`) | Paranaiba (`paranaiba_province`) | Paranaiba (`paranaiba_area`) | `tropical` | `forest` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Montes Claros (`montes_claros`) | Paracatu (`paracatu_province`) | Parapĩtinga (`parapitinga_area`) | `tropical` | `woods` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Goianas (`goianas`) | Sabarabucu (`sabarabucu_province`) | Parapĩtinga (`parapitinga_area`) | `tropical` | `grasslands` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Cantagalo (`cantagalo`) | Mokaie (`mokaie_province`) | Pindorama (`pindorama_area`) | `subtropical` | `forest` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Rio Pomba (`rio_pomba`) | Meruim-hu (`muriae_province`) | Pindorama (`pindorama_area`) | `subtropical` | `forest` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Itá-atîaîa (`ita_atiaia`) | Piray (`piray_province`) | Pindorama (`pindorama_area`) | `subtropical` | `forest` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Taba-ybaté (`taubate`) | Taubate (`taubate_province`) | Pindorama (`pindorama_area`) | `subtropical` | `forest` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Borun (`borun`) | Urucu (`urucu_province`) | Pindorama (`pindorama_area`) | `tropical` | `forest` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Auwe (`auwe`) | Araguaia (`araguaia_province`) | Tocantins (`tocantins_area`) | `tropical` | `grasslands` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Itya Mahãdu (`itya_mahadu`) | Araguaia (`araguaia_province`) | Tocantins (`tocantins_area`) | `tropical` | `forest` | `fruit` | `fruit` | ? | `fruit` |  |  |
+| Sapukaia (`sapukaia`) | Sapukaia (`sapukaia_province`) | Parana (`parana_area`) | `subtropical` | `forest` | `fruit` | `fruit` | ? | `fruit` | `newworld_tropical_orchard` |  |
+| Parnagua (`parnagua`) | Gurgueia (`gurgueia_province`) | Paranaiba (`paranaiba_area`) | `tropical` | `forest` | `fruit` | `fruit` | ? | `fruit` |  | Cassava decision transferred to Just Tubers. |
+| Aroas (`aroas`) | Paranaiba (`paranaiba_province`) | Paranaiba (`paranaiba_area`) | `tropical` | `forest` | `fruit` | `fruit` | ? | `fruit` | `newworld_tropical_orchard` |  |
+| Montes Claros (`montes_claros`) | Paracatu (`paracatu_province`) | Parapĩtinga (`parapitinga_area`) | `tropical` | `woods` | `fruit` | `fruit` | ? | `fruit` | `newworld_tropical_orchard` |  |
+| Goianas (`goianas`) | Sabarabucu (`sabarabucu_province`) | Parapĩtinga (`parapitinga_area`) | `tropical` | `grasslands` | `fruit` | `fruit` | ? | `fruit` | `newworld_tropical_orchard` |  |
+| Cantagalo (`cantagalo`) | Mokaie (`mokaie_province`) | Pindorama (`pindorama_area`) | `subtropical` | `forest` | `fruit` | `fruit` | ? | `fruit` | `pineapple` |  |
+| Rio Pomba (`rio_pomba`) | Meruim-hu (`muriae_province`) | Pindorama (`pindorama_area`) | `subtropical` | `forest` | `fruit` | `fruit` | ? | `fruit` | `newworld_tropical_orchard` |  |
+| Itá-atîaîa (`ita_atiaia`) | Piray (`piray_province`) | Pindorama (`pindorama_area`) | `subtropical` | `forest` | `fruit` | `fruit` | ? | `fruit` | `newworld_tropical_orchard` |  |
+| Taba-ybaté (`taubate`) | Taubate (`taubate_province`) | Pindorama (`pindorama_area`) | `subtropical` | `forest` | `fruit` | `fruit` | ? | `fruit` | `newworld_tropical_orchard` |  |
+| Borun (`borun`) | Urucu (`urucu_province`) | Pindorama (`pindorama_area`) | `tropical` | `forest` | `fruit` | `fruit` | ? | `fruit` | `newworld_tropical_orchard` |  |
+| Auwe (`auwe`) | Araguaia (`araguaia_province`) | Tocantins (`tocantins_area`) | `tropical` | `grasslands` | `fruit` | `fruit` | ? | `fruit` | `newworld_tropical_orchard` |  |
+| Itya Mahãdu (`itya_mahadu`) | Araguaia (`araguaia_province`) | Tocantins (`tocantins_area`) | `tropical` | `forest` | `fruit` | `fruit` | ? | `fruit` | `newworld_tropical_orchard` |  |
 
-### Britain (`great_britain_region`) ? 9 locations
+### Britain (`great_britain_region`) ? 10 locations
 
 | Location | Province | Area | Climate | Vegetation | Vanilla RGO | Global Historical RGO | Just Goods startup | Effective start | Proposed RGO | Review notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Royston (`royston`) | Cambridgeshire (`cambridgeshire_province`) | East Anglia (`east_anglia_area`) | `oceanic` | `grasslands` | `wheat` | `fruit` | ? | `fruit` |  |  |
-| Norwich (`norwich`) | Norfolk (`norfolk_province`) | East Anglia (`east_anglia_area`) | `oceanic` | `farmland` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Winchester (`winchester`) | Hampshire (`hampshire_province`) | Home Counties (`home_counties_area`) | `oceanic` | `farmland` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Rochester (`rochester`) | Kent (`kent_province`) | Home Counties (`home_counties_area`) | `oceanic` | `grasslands` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Dundee (`dundee`) | Angus (`angus_province`) | Lowlands (`scottish_lowlands_area`) | `oceanic` | `grasslands` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Selkirk (`selkirk`) | Teviotdale (`teviotdale_province`) | Lowlands (`scottish_lowlands_area`) | `oceanic` | `woods` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Monmouth (`monmouth`) | Glamorgan (`glamorgan_province`) | Wales (`wales_area`) | `oceanic` | `woods` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Cheltenham (`cheltenham`) | Gloucestershire (`gloucestershire_province`) | West Country (`west_country_area`) | `oceanic` | `grasslands` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Taunton (`taunton`) | Somerset (`somerset_province`) | West Country (`west_country_area`) | `oceanic` | `grasslands` | `fruit` | `fruit` | ? | `fruit` |  |  |
+| Royston (`royston`) | Cambridgeshire (`cambridgeshire_province`) | East Anglia (`east_anglia_area`) | `oceanic` | `grasslands` | `wheat` | `fruit` | ? | `fruit` | `temperate_orchard` |  |
+| Norwich (`norwich`) | Norfolk (`norfolk_province`) | East Anglia (`east_anglia_area`) | `oceanic` | `farmland` | `fruit` | `fruit` | ? | `fruit` | `temperate_orchard` |  |
+| Winchester (`winchester`) | Hampshire (`hampshire_province`) | Home Counties (`home_counties_area`) | `oceanic` | `farmland` | `fruit` | `fruit` | ? | `fruit` | `temperate_orchard` |  |
+| Rochester (`rochester`) | Kent (`kent_province`) | Home Counties (`home_counties_area`) | `oceanic` | `grasslands` | `fruit` | `fruit` | ? | `fruit` | `temperate_orchard` |  |
+| Dundee (`dundee`) | Angus (`angus_province`) | Lowlands (`scottish_lowlands_area`) | `oceanic` | `grasslands` | `fruit` | `fruit` | ? | `fruit` | `temperate_orchard` |  |
+| Selkirk (`selkirk`) | Teviotdale (`teviotdale_province`) | Lowlands (`scottish_lowlands_area`) | `oceanic` | `woods` | `fruit` | `fruit` | ? | `fruit` | `wool` | Swap the local fruit assignment to neighboring Roxburgh. |
+| Roxburgh (`roxburgh`) | Teviotdale (`teviotdale_province`) | Lowlands (`scottish_lowlands_area`) | `oceanic` | `grasslands` | `beeswax` | `wool` | ? | `wool` | `temperate_orchard` | Receives the orchard assignment swapped from Selkirk. |
+| Monmouth (`monmouth`) | Glamorgan (`glamorgan_province`) | Wales (`wales_area`) | `oceanic` | `woods` | `fruit` | `fruit` | ? | `fruit` | `stonefruit_orchard` |  |
+| Cheltenham (`cheltenham`) | Gloucestershire (`gloucestershire_province`) | West Country (`west_country_area`) | `oceanic` | `grasslands` | `fruit` | `fruit` | ? | `fruit` | `temperate_orchard` |  |
+| Taunton (`taunton`) | Somerset (`somerset_province`) | West Country (`west_country_area`) | `oceanic` | `grasslands` | `fruit` | `fruit` | ? | `fruit` | `temperate_orchard` |  |
 
 ### Canada (`canada_region`) ? 2 locations
 
 | Location | Province | Area | Climate | Vegetation | Vanilla RGO | Global Historical RGO | Just Goods startup | Effective start | Proposed RGO | Review notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Kanatakon (`ahkwesasne`) | Hochelaga (`hochelaga_province`) | Lower Canada (`lower_canada_area`) | `continental` | `woods` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Ganatchio (`ganatchio`) | Ganatchio (`ganatchio_province`) | Western Ontario (`western_ontario_area`) | `continental` | `woods` | `fruit` | `fruit` | ? | `fruit` |  |  |
+| Kanatakon (`ahkwesasne`) | Hochelaga (`hochelaga_province`) | Lower Canada (`lower_canada_area`) | `continental` | `woods` | `fruit` | `fruit` | ? | `fruit` | `maize` |  |
+| Ganatchio (`ganatchio`) | Ganatchio (`ganatchio_province`) | Western Ontario (`western_ontario_area`) | `continental` | `woods` | `fruit` | `fruit` | ? | `fruit` | `maize` |  |
 
 ### Caribbean (`caribbean_region`) ? 8 locations
 
 | Location | Province | Area | Climate | Vegetation | Vanilla RGO | Global Historical RGO | Just Goods startup | Effective start | Proposed RGO | Review notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Eleuthera (`eleuthera`) | Lucayas (`bahamas_province`) | Cuba (`cuba_area`) | `tropical` | `forest` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Jumento (`jumento`) | Lucayas (`bahamas_province`) | Cuba (`cuba_area`) | `tropical` | `grasslands` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Macaca (`macaca`) | Bayamo (`bayamo_province`) | Cuba (`cuba_area`) | `tropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Habana (`habana`) | Havana (`havana_province`) | Cuba (`cuba_area`) | `tropical` | `woods` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Jagua (`jagua`) | Havana (`havana_province`) | Cuba (`cuba_area`) | `tropical` | `grasslands` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Ayamaco (`ayamaco`) | Boriken (`boriken_province`) | `hispaniola_area` | `tropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Yuma (`yuma`) | Higüey (`higuey_province`) | `hispaniola_area` | `tropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` |  |  |
-| Haniguayagua (`haniguayagua`) | Jaragua (`jaragua_province`) | `hispaniola_area` | `tropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` |  |  |
+| Eleuthera (`eleuthera`) | Lucayas (`bahamas_province`) | Cuba (`cuba_area`) | `tropical` | `forest` | `fruit` | `fruit` | ? | `fruit` | `newworld_tropical_orchard` |  |
+| Jumento (`jumento`) | Lucayas (`bahamas_province`) | Cuba (`cuba_area`) | `tropical` | `grasslands` | `fruit` | `fruit` | ? | `fruit` | `newworld_tropical_orchard` |  |
+| Macaca (`macaca`) | Bayamo (`bayamo_province`) | Cuba (`cuba_area`) | `tropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `newworld_tropical_orchard` |  |
+| Habana (`habana`) | Havana (`havana_province`) | Cuba (`cuba_area`) | `tropical` | `woods` | `fruit` | `fruit` | ? | `fruit` | `newworld_tropical_orchard` |  |
+| Jagua (`jagua`) | Havana (`havana_province`) | Cuba (`cuba_area`) | `tropical` | `grasslands` | `fruit` | `fruit` | ? | `fruit` | `newworld_tropical_orchard` |  |
+| Ayamaco (`ayamaco`) | Boriken (`boriken_province`) | `hispaniola_area` | `tropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `newworld_tropical_orchard` |  |
+| Yuma (`yuma`) | Higüey (`higuey_province`) | `hispaniola_area` | `tropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `newworld_tropical_orchard` |  |
+| Haniguayagua (`haniguayagua`) | Jaragua (`jaragua_province`) | `hispaniola_area` | `tropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `newworld_tropical_orchard` |  |
 
 ### Carpathia (`carpathia_region`) ? 11 locations
 

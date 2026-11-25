@@ -100,6 +100,49 @@ The specific locations and their final RGO assignments require a separate
 geographic review; these categories do not by themselves authorize a
 location-by-location change.
 
+## Crop diffusion and RGO switching
+
+Just Fruits should provide specific player-facing options for switching
+eligible locations to appropriate fruit RGOs. These choices should make crop
+adoption deliberate rather than allowing unrestricted conversion: eligibility,
+costs, timing, climate, ownership, market access, and required crop exposure
+must be designed against the final game mechanics.
+
+Scripted AI events should provide a parallel path for historically plausible
+global fruit diffusion. The system should especially support:
+
+- introduction of Old World temperate fruits and orchard systems to suitable
+  New World locations after sustained contact;
+- transfer of distinctive crops between the Old and New Worlds during the
+  Columbian Exchange; and
+- development of colonial plantation monocultures for crops such as pineapple
+  and mango where climate, colonial control, and market conditions support
+  them.
+
+Player options and AI events should use the same eligibility principles and
+should not overwrite historically important RGOs without meaningful
+conditions. Exact triggers, effects, pacing, and AI weighting must be verified
+against installed vanilla definitions before implementation.
+
+### New World tropical placeholder policy
+
+For some New World locations, especially in Cuba, surviving evidence does not
+support assigning a specific pre-colonial orchard or cash crop with confidence.
+This uncertainty should not be described as proof that Indigenous communities
+had no agriculture. Where a location later became strongly oriented toward
+fruit or cash-crop production under colonial rule,
+`newworld_tropical_orchard` may serve as a broad starting abstraction for
+mixed cultivation, agroforestry, agricultural potential, or incomplete
+location-specific evidence.
+
+These assignments also act as design signals for the crop-diffusion system:
+they identify locations where the player or scripted AI may later replace the
+broad orchard RGO with a historically and climatically appropriate plantation
+monoculture or other specialized cash crop. The initial placeholder does not
+authorize an automatic conversion; later specialization must still satisfy
+the switching system's contact, timing, ownership, climate, market, and cost
+conditions.
+
 ### Date-palm compatibility
 
 An earlier compatibility direction was to use the existing generic `fruit`
@@ -139,6 +182,19 @@ manufactured, and require wineries to consume grapes and employ workers.
 This production-chain change is separate from the Phase 1 agricultural
 taxonomy. Inspect the vanilla winery and orchard building definitions before
 deciding whether or how to implement it.
+
+## Production methods: monastic fruit cultivation
+
+Just Fruits should include new production methods that let monasteries
+specialize in fruit cultivation and receive appropriate fruit-production
+bonuses. This represents the recurring historical role of monasteries in
+orchard cultivation without requiring every monastic site to receive a fruit
+RGO.
+
+The exact production methods, eligible monastery buildings, outputs, and
+bonuses remain to be designed and balanced. Inspect the installed vanilla
+monastery, orchard, and production-method definitions before implementation,
+and keep the feature compatible with the final fruit-good taxonomy.
 
 ## Implementation principles
 
