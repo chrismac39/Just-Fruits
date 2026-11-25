@@ -78,11 +78,11 @@ Selectable candidates are only:
 
 - Raw-material goods defined by installed vanilla EU5.
 - Raw-material goods defined by the local Just Goods source.
-- The twelve planned Just Fruits goods configured in
-  `config/rgo-research-crops.json`: banana, citrus orchard, coconut, date
-  palm, grapes, mango, Mediterranean orchard, New World tropical orchard,
-  Old World tropical orchard, pineapple, stonefruit orchard, and temperate
-  orchard. Tuber crops are researched separately in Just Tubers.
+- The fourteen planned Just Fruits goods configured in
+  `config/rgo-research-crops.json`: Africa orchard, America tropical orchard,
+  Asia tropical orchard, banana, citrus orchard, coconut, date palm, grapes,
+  mango, Mediterranean orchard, pineapple, stonefruit orchard, tamarind, and
+  temperate orchard. Tuber crops are researched separately in Just Tubers.
 
 Generic `fruit` is always excluded. Historical RGOs - Global, RGO Harmony, and
 other mods are not candidate sources. The candidate preference order is:

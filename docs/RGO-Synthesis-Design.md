@@ -53,22 +53,25 @@ World / New World agricultural origins.
 
 | Synthesis category                | Fruits Expanded RGOs represented                                                                          | Design intent                                                                                             |
 | --------------------------------- | --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| Africa orchards (`africa_orchard`) | Safou, baobab, marula, African star apple, and similar indigenous African tree crops | Represent indigenous African orchard and agroforestry systems without treating them as part of the Asia tropical orchard category. |
 | Temperate fruit orchards          | Apples, Western Pears, Eastern Pears, Persimmons                                                          | Combine temperate orchard fruits into one economic category.                                              |
 | Stone fruit orchards              | Plums, Peaches, Cherries                                                                                  | Combine related stone-fruit orchard crops.                                                                |
 | Mediterranean fruit orchards      | Figs, Pomegranates                                                                                        | Represent distinctive Mediterranean and semi-arid fruit cultivation together.                             |
 | Citrus orchards                   | Lemons, both Orange types, Mandarins                                                                      | Consolidate related citrus crops.                                                                         |
-| Old World tropical fruit orchards | Jackfruit, breadfruit, durian, rambutan, mangosteen, lychees, and similar indigenous Old World tropical tree crops | Represent diverse Old World tropical orchards and agroforestry without individual goods for each species. |
-| New World tropical fruit orchards | Avocado, guava, sapote, cherimoya, and similar indigenous New World tree crops                            | Represent diverse New World tropical orchards and agroforestry without individual goods for each species. |
+| Asia tropical orchards (`asia_tropical_orchard`) | Jackfruit, breadfruit, durian, rambutan, mangosteen, lychees, and similar indigenous Asian tree crops | Represent diverse Asian tropical orchards and agroforestry without individual goods for each species.      |
+| America tropical orchards (`america_tropical_orchard`) | Avocado, guava, sapote, cherimoya, and similar indigenous American tree crops                  | Represent diverse tropical orchards and agroforestry of the Americas without individual goods for each species. |
 | Date palms                        | Date-palm agriculture                                                                                     | Represent the distinctive date-palm economy.                                                              |
 | Coconuts                          | Coconut agriculture                                                                                       | Represent a distinctive tropical staple and coconut-palm economy.                                         |
-| Mango                             | Mango                                                                                                     | Keep mango as a distinct crop in historically supported regions; do not subsume it into Old World tropical orchards. |
+| Mango                             | Mango                                                                                                     | Keep mango as a distinct crop in historically supported regions; do not subsume it into Asia tropical orchards. |
+| Tamarind (`tamarind`)             | Tamarind                                                                                                  | Keep tamarind as a distinct high-value crop whose African origin, early Old World diffusion, and later expansion can be modeled explicitly. |
 | Grapes                            | Grapes                                                                                                    | Track grape cultivation as an explicit RGO; its production-chain relationship to wine remains a separate open question. |
 | Bananas                           | Bananas                                                                                                  | Keep banana as a distinct Old World tropical crop; model its spread to the Americas through the Columbian Exchange. |
 | Pineapples                        | Pineapples                                                                                               | Keep pre-contact New World cultivation distinct; model its spread to the Old World through the Columbian Exchange. |
 
 The tropical orchard categories do not absorb goods that are already
-historically distinctive in the design: mango and banana for the Old World;
-pineapple, cocoa, and chili for the New World. Persimmons and lychees remain
+historically distinctive in the design: mango, tamarind, and banana for the
+Old World; pineapple, cocoa, and chili for the New World. Africa orchards
+remain distinct from Asia tropical orchards. Persimmons and lychees remain
 within their respective broad orchard categories. Nuts are not a separate
 RGO; they are abstracted within the appropriate tree-fruit categories.
 
@@ -82,13 +85,15 @@ meaningful agricultural categories:
   cherries.
 - Mediterranean fruit orchards for figs and pomegranates.
 - Citrus orchards for lemons, oranges, mandarins, and similar citrus.
-- Old World tropical fruit orchards for suitable Old World tropical regions,
-  including Southeast Asia.
-- New World tropical fruit orchards for suitable New World tropical regions.
+- Africa orchards for indigenous African orchard and agroforestry systems.
+- Asia tropical orchards for suitable tropical Asian regions.
+- America tropical orchards for suitable tropical regions of the Americas.
 - Date palms and coconuts as distinctive agricultural systems.
 - Tuber crops are outside this project's scope; see Just Tubers for cassava,
   taro, and sweet potato.
 - Mango as a standalone Old World crop in historically supported regions.
+- Tamarind as a standalone high-value crop with its origin and diffusion
+  modeled explicitly.
 - Grapes as a distinct agricultural RGO; its relationship to vanilla's
   directly extracted wine remains a separate production-chain question.
 - Bananas as an Old World crop, with Columbian Exchange introduction to the
@@ -124,14 +129,14 @@ should not overwrite historically important RGOs without meaningful
 conditions. Exact triggers, effects, pacing, and AI weighting must be verified
 against installed vanilla definitions before implementation.
 
-### New World tropical placeholder policy
+### America tropical orchard placeholder policy
 
 For some New World locations, especially in Cuba, surviving evidence does not
 support assigning a specific pre-colonial orchard or cash crop with confidence.
 This uncertainty should not be described as proof that Indigenous communities
 had no agriculture. Where a location later became strongly oriented toward
 fruit or cash-crop production under colonial rule,
-`newworld_tropical_orchard` may serve as a broad starting abstraction for
+`america_tropical_orchard` may serve as a broad starting abstraction for
 mixed cultivation, agroforestry, agricultural potential, or incomplete
 location-specific evidence.
 
@@ -219,6 +224,6 @@ and keep the feature compatible with the final fruit-good taxonomy.
 The goal is greater historical and economic differentiation with fewer
 unnecessary commodity types—not simply increasing the total number of RGOs.
 The intended system distinguishes European temperate orchards, Mediterranean
-fruit cultivation, Middle Eastern and Saharan date palms, Old World tropical
-orchards and tubers, New World tropical orchards and tubers, and Pacific
-coconut-based agricultural economies.
+fruit cultivation, Middle Eastern and Saharan date palms, Asia tropical
+orchards and Old World tubers, America tropical orchards and New World tubers,
+and Pacific coconut-based agricultural economies.

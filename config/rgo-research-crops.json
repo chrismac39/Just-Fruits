@@ -2,6 +2,16 @@
   "version": 2,
   "plannedRgos": [
     {
+      "id": "africa_orchard",
+      "aliases": {
+        "en": ["safou", "african pear", "baobab", "marula", "african star apple"],
+        "fr": ["safou", "prune africaine", "baobab", "marula"],
+        "de": ["safou", "afrikanische birne", "baobab", "marula"],
+        "es": ["safú", "pera africana", "baobab", "marula"],
+        "pt": ["safú", "pera africana", "baobá", "marula"]
+      }
+    },
+    {
       "id": "banana",
       "aliases": {
         "en": ["banana", "bananas", "plantain", "plantains"],
@@ -71,7 +81,7 @@
       }
     },
     {
-      "id": "newworld_tropical_orchard",
+      "id": "america_tropical_orchard",
       "aliases": {
         "en": ["avocado", "guava", "sapote", "cherimoya"],
         "fr": ["avocat", "goyave", "sapotille", "chérimole"],
@@ -81,7 +91,7 @@
       }
     },
     {
-      "id": "oldworld_tropical_orchard",
+      "id": "asia_tropical_orchard",
       "aliases": {
         "en": ["jackfruit", "breadfruit", "durian", "rambutan", "mangosteen"],
         "fr": ["jacquier", "fruit à pain", "durian", "ramboutan", "mangoustan"],
@@ -108,6 +118,16 @@
         "de": ["pflaume", "pfirsich", "kirsche", "aprikose"],
         "es": ["ciruela", "melocotón", "durazno", "cereza", "albaricoque"],
         "pt": ["ameixa", "pêssego", "cereja", "damasco"]
+      }
+    },
+    {
+      "id": "tamarind",
+      "aliases": {
+        "en": ["tamarind", "tamarind tree"],
+        "fr": ["tamarin", "tamarinier"],
+        "de": ["tamarinde", "tamarindenbaum"],
+        "es": ["tamarindo"],
+        "pt": ["tamarindo", "tamarindeiro"]
       }
     },
     {

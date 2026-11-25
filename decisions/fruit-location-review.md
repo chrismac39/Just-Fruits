@@ -153,13 +153,13 @@ listed areas; those cells show the exact scope ID.
 | Location | Province | Area | Climate | Vegetation | Vanilla RGO | Global Historical RGO | Just Goods startup | Effective start | Proposed RGO | Review notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Biobio (`biobio`) | Pikunmapu (`pikunmapu_province`) | Ngulumapu (`ngulumapu_area`) | `oceanic` | `forest` | `fruit` | `fruit` | ? | `fruit` |  | Cassava proposal transferred to Just Tubers for review. |
-| Manta (`manta`) | Guancavilca (`guancavilca_province`) | Quitu (`quitu_area`) | `arid` | `woods` | `fruit` | `fruit` | ? | `fruit` | `newworld_tropical_orchard` |  |
-| Tsachila (`tsachila`) | Quitu (`quitu_province`) | Quitu (`quitu_area`) | `tropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `newworld_tropical_orchard` |  |
-| Chatuza (`chatuza`) | Cocamas (`cocamas_province`) | Rupa Rupa (`rupa_rupa_area`) | `tropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `newworld_tropical_orchard` |  |
-| Utkhupampa (`utkhupampa`) | Ingatambo (`ingatambo_province`) | Rupa Rupa (`rupa_rupa_area`) | `tropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `newworld_tropical_orchard` |  |
-| Panatahuas (`panatahuas`) | Rupa Rupa (`rupa_rupa_province`) | Rupa Rupa (`rupa_rupa_area`) | `oceanic` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `newworld_tropical_orchard` |  |
+| Manta (`manta`) | Guancavilca (`guancavilca_province`) | Quitu (`quitu_area`) | `arid` | `woods` | `fruit` | `fruit` | ? | `fruit` | `america_tropical_orchard` |  |
+| Tsachila (`tsachila`) | Quitu (`quitu_province`) | Quitu (`quitu_area`) | `tropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `america_tropical_orchard` |  |
+| Chatuza (`chatuza`) | Cocamas (`cocamas_province`) | Rupa Rupa (`rupa_rupa_area`) | `tropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `america_tropical_orchard` |  |
+| Utkhupampa (`utkhupampa`) | Ingatambo (`ingatambo_province`) | Rupa Rupa (`rupa_rupa_area`) | `tropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `america_tropical_orchard` |  |
+| Panatahuas (`panatahuas`) | Rupa Rupa (`rupa_rupa_province`) | Rupa Rupa (`rupa_rupa_area`) | `oceanic` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `america_tropical_orchard` |  |
 | Sachchaa Mukku (`sachchaa_mukku`) | Chuwi (`chuwi_province`) | Yunga (`yunga_area`) | `continental` | `woods` | `fruit` | `fruit` | ? | `fruit` |  | Cassava proposal transferred to Just Tubers for review. |
-| Guanay (`guanay`) | Yunga (`yunga_province`) | Yunga (`yunga_area`) | `tropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `newworld_tropical_orchard` |  |
+| Guanay (`guanay`) | Yunga (`yunga_province`) | Yunga (`yunga_area`) | `tropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `america_tropical_orchard` |  |
 
 ### Arabia (`arabia_region`) ? 58 locations
 
@@ -296,21 +296,21 @@ listed areas; those cells show the exact scope ID.
 
 | Location | Province | Area | Climate | Vegetation | Vanilla RGO | Global Historical RGO | Just Goods startup | Effective start | Proposed RGO | Review notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Kokrajhar (`kokrajhar`) | Baro Bhuyan (`baro_bhuyan_province`) | Assam (`assam_area`) | `subtropical` | `forest` | `fruit` | `fruit` | ? | `fruit` | `oldworld_tropical_orchard` |  |
+| Kokrajhar (`kokrajhar`) | Baro Bhuyan (`baro_bhuyan_province`) | Assam (`assam_area`) | `subtropical` | `forest` | `fruit` | `fruit` | ? | `fruit` | `asia_tropical_orchard` |  |
 | Lakhimpur (`lakhimpur`) | Chutia (`chutia_province`) | Assam (`assam_area`) | `subtropical` | `forest` | `fruit` | `fruit` | ? | `fruit` | `rice` |  |
 | Dhansiri (`dhansiri`) | Kachari (`kachari_province`) | Assam (`assam_area`) | `subtropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `coconut` |  |
 | Jaintiapur (`jaintiapur`) | Meghalaya (`meghalaya_province`) | Assam (`assam_area`) | `subtropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `citrus_orchard` |  |
 | Lyngngam (`lyngngam`) | Meghalaya (`meghalaya_province`) | Assam (`assam_area`) | `subtropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `mango` |  |
 | Raipur (`raipur_bengal`) | Bishnupur (`bishnupur_province`) | Bengal (`bengal_area`) | `tropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `banana` |  |
 | Barbakaabad (`barbakaabad`) | Devkot (`devkot_province`) | Bengal (`bengal_area`) | `subtropical` | `woods` | `fruit` | `fruit` | ? | `fruit` | `mango` |  |
-| Muktagacha (`muktagacha`) | Mymensingh (`mymensingh_province`) | Bengal (`bengal_area`) | `subtropical` | `woods` | `fruit` | `fruit` | ? | `fruit` | `oldworld_tropical_orchard` |  |
+| Muktagacha (`muktagacha`) | Mymensingh (`mymensingh_province`) | Bengal (`bengal_area`) | `subtropical` | `woods` | `fruit` | `fruit` | ? | `fruit` | `asia_tropical_orchard` |  |
 | Patharkandi (`patharkandi`) | Sylhet (`sylhet_province`) | Bengal (`bengal_area`) | `subtropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `mango` |  |
-| Mara (`mara_india`) | Kuki (`kuki_province`) | Zo Hills (`hill_area`) | `subtropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `oldworld_tropical_orchard` |  |
-| Chai (`chai`) | Hazaribagh (`hazaribagh_province`) | Jharkhand (`jharkhand_area`) | `subtropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `oldworld_tropical_orchard` |  |
+| Mara (`mara_india`) | Kuki (`kuki_province`) | Zo Hills (`hill_area`) | `subtropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `asia_tropical_orchard` |  |
+| Chai (`chai`) | Hazaribagh (`hazaribagh_province`) | Jharkhand (`jharkhand_area`) | `subtropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `asia_tropical_orchard` |  |
 | Untari (`untari`) | Palamau (`palamau_province`) | Jharkhand (`jharkhand_area`) | `subtropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `sugar` |  |
 | Gidhaur (`gidhaur`) | Bhagalpur (`bhagalpur_province`) | Mithila and Magadh (`mithila_area`) | `subtropical` | `forest` | `fruit` | `fruit` | ? | `fruit` | `mango` |  |
 | Hajipur (`hajipur`) | Bhagalpur (`bhagalpur_province`) | Mithila and Magadh (`mithila_area`) | `subtropical` | `farmland` | `fruit` | `fruit` | ? | `fruit` | `banana` |  |
-| Kulada (`kulada`) | Kangoda (`ganjam_garjats`) | Orissa (`orissa_area`) | `tropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `oldworld_tropical_orchard` |  |
+| Kulada (`kulada`) | Kangoda (`ganjam_garjats`) | Orissa (`orissa_area`) | `tropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `asia_tropical_orchard` |  |
 | Gunupur (`gunupur`) | Kamala Mandala (`kalahandi_garjat`) | Orissa (`orissa_area`) | `tropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `mango` |  |
 | Nilakamberu (`nilakamberu`) | Kamala Mandala (`kalahandi_garjat`) | Orissa (`orissa_area`) | `tropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `rice` |  |
 | Jyotipur (`jyotipur`) | Keonjhar (`keonjhar_province`) | Orissa (`orissa_area`) | `subtropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `mango` |  |
@@ -320,29 +320,29 @@ listed areas; those cells show the exact scope ID.
 
 | Location | Province | Area | Climate | Vegetation | Vanilla RGO | Global Historical RGO | Just Goods startup | Effective start | Proposed RGO | Review notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Ariste (`ariste`) | Arua (`arua_province`) | Amazon (`amazon_area`) | `tropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `newworld_tropical_orchard` |  |
-| Surui Paiter (`surui_paiter`) | Ji-Parana (`ji_parana_province`) | Guapore (`guapore_area`) | `tropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `newworld_tropical_orchard` |  |
-| Moxos (`moxos`) | Mamore (`mamore_province`) | Guapore (`guapore_area`) | `tropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `newworld_tropical_orchard` |  |
-| Kajabi (`kajabi`) | Upper Tapajos (`upper_tapajos_province`) | Mato Grosso (`mato_grosso_area`) | `tropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `newworld_tropical_orchard` |  |
-| Imbau (`imbau`) | Imbau (`imbau_province`) | Parana (`parana_area`) | `oceanic` | `forest` | `fruit` | `fruit` | ? | `fruit` | `newworld_tropical_orchard` |  |
+| Ariste (`ariste`) | Arua (`arua_province`) | Amazon (`amazon_area`) | `tropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `america_tropical_orchard` |  |
+| Surui Paiter (`surui_paiter`) | Ji-Parana (`ji_parana_province`) | Guapore (`guapore_area`) | `tropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `america_tropical_orchard` |  |
+| Moxos (`moxos`) | Mamore (`mamore_province`) | Guapore (`guapore_area`) | `tropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `america_tropical_orchard` |  |
+| Kajabi (`kajabi`) | Upper Tapajos (`upper_tapajos_province`) | Mato Grosso (`mato_grosso_area`) | `tropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `america_tropical_orchard` |  |
+| Imbau (`imbau`) | Imbau (`imbau_province`) | Parana (`parana_area`) | `oceanic` | `forest` | `fruit` | `fruit` | ? | `fruit` | `america_tropical_orchard` |  |
 | Lages (`lages`) | Lages (`lages_province`) | Parana (`parana_area`) | `oceanic` | `forest` | `fruit` | `fruit` | ? | `fruit` |  | Cassava decision transferred to Just Tubers. |
 | São José dos Pinhais (`sao_jose_pinhais`) | Paranagua (`paranagua_province`) | Parana (`parana_area`) | `oceanic` | `forest` | `fruit` | `fruit` | ? | `fruit` | `pineapple` |  |
-| Porto Tibiriça (`porto_tibirica`) | Piquiri (`piquiri_province`) | Parana (`parana_area`) | `tropical` | `forest` | `fruit` | `fruit` | ? | `fruit` | `newworld_tropical_orchard` |  |
-| Piracicaba (`piracicaba`) | Piracicaba (`piracicaba_province`) | Parana (`parana_area`) | `subtropical` | `forest` | `fruit` | `fruit` | ? | `fruit` | `newworld_tropical_orchard` |  |
-| Sapukaia (`sapukaia`) | Sapukaia (`sapukaia_province`) | Parana (`parana_area`) | `subtropical` | `forest` | `fruit` | `fruit` | ? | `fruit` | `newworld_tropical_orchard` |  |
+| Porto Tibiriça (`porto_tibirica`) | Piquiri (`piquiri_province`) | Parana (`parana_area`) | `tropical` | `forest` | `fruit` | `fruit` | ? | `fruit` | `america_tropical_orchard` |  |
+| Piracicaba (`piracicaba`) | Piracicaba (`piracicaba_province`) | Parana (`parana_area`) | `subtropical` | `forest` | `fruit` | `fruit` | ? | `fruit` | `america_tropical_orchard` |  |
+| Sapukaia (`sapukaia`) | Sapukaia (`sapukaia_province`) | Parana (`parana_area`) | `subtropical` | `forest` | `fruit` | `fruit` | ? | `fruit` | `america_tropical_orchard` |  |
 | Parnagua (`parnagua`) | Gurgueia (`gurgueia_province`) | Paranaiba (`paranaiba_area`) | `tropical` | `forest` | `fruit` | `fruit` | ? | `fruit` |  | Cassava decision transferred to Just Tubers. |
-| Aroas (`aroas`) | Paranaiba (`paranaiba_province`) | Paranaiba (`paranaiba_area`) | `tropical` | `forest` | `fruit` | `fruit` | ? | `fruit` | `newworld_tropical_orchard` |  |
-| Montes Claros (`montes_claros`) | Paracatu (`paracatu_province`) | Parapĩtinga (`parapitinga_area`) | `tropical` | `woods` | `fruit` | `fruit` | ? | `fruit` | `newworld_tropical_orchard` |  |
-| Goianas (`goianas`) | Sabarabucu (`sabarabucu_province`) | Parapĩtinga (`parapitinga_area`) | `tropical` | `grasslands` | `fruit` | `fruit` | ? | `fruit` | `newworld_tropical_orchard` |  |
+| Aroas (`aroas`) | Paranaiba (`paranaiba_province`) | Paranaiba (`paranaiba_area`) | `tropical` | `forest` | `fruit` | `fruit` | ? | `fruit` | `america_tropical_orchard` |  |
+| Montes Claros (`montes_claros`) | Paracatu (`paracatu_province`) | Parapĩtinga (`parapitinga_area`) | `tropical` | `woods` | `fruit` | `fruit` | ? | `fruit` | `america_tropical_orchard` |  |
+| Goianas (`goianas`) | Sabarabucu (`sabarabucu_province`) | Parapĩtinga (`parapitinga_area`) | `tropical` | `grasslands` | `fruit` | `fruit` | ? | `fruit` | `america_tropical_orchard` |  |
 | Cantagalo (`cantagalo`) | Mokaie (`mokaie_province`) | Pindorama (`pindorama_area`) | `subtropical` | `forest` | `fruit` | `fruit` | ? | `fruit` | `pineapple` |  |
-| Rio Pomba (`rio_pomba`) | Meruim-hu (`muriae_province`) | Pindorama (`pindorama_area`) | `subtropical` | `forest` | `fruit` | `fruit` | ? | `fruit` | `newworld_tropical_orchard` |  |
-| Itá-atîaîa (`ita_atiaia`) | Piray (`piray_province`) | Pindorama (`pindorama_area`) | `subtropical` | `forest` | `fruit` | `fruit` | ? | `fruit` | `newworld_tropical_orchard` |  |
-| Taba-ybaté (`taubate`) | Taubate (`taubate_province`) | Pindorama (`pindorama_area`) | `subtropical` | `forest` | `fruit` | `fruit` | ? | `fruit` | `newworld_tropical_orchard` |  |
-| Borun (`borun`) | Urucu (`urucu_province`) | Pindorama (`pindorama_area`) | `tropical` | `forest` | `fruit` | `fruit` | ? | `fruit` | `newworld_tropical_orchard` |  |
-| Auwe (`auwe`) | Araguaia (`araguaia_province`) | Tocantins (`tocantins_area`) | `tropical` | `grasslands` | `fruit` | `fruit` | ? | `fruit` | `newworld_tropical_orchard` |  |
-| Itya Mahãdu (`itya_mahadu`) | Araguaia (`araguaia_province`) | Tocantins (`tocantins_area`) | `tropical` | `forest` | `fruit` | `fruit` | ? | `fruit` | `newworld_tropical_orchard` |  |
+| Rio Pomba (`rio_pomba`) | Meruim-hu (`muriae_province`) | Pindorama (`pindorama_area`) | `subtropical` | `forest` | `fruit` | `fruit` | ? | `fruit` | `america_tropical_orchard` |  |
+| Itá-atîaîa (`ita_atiaia`) | Piray (`piray_province`) | Pindorama (`pindorama_area`) | `subtropical` | `forest` | `fruit` | `fruit` | ? | `fruit` | `america_tropical_orchard` |  |
+| Taba-ybaté (`taubate`) | Taubate (`taubate_province`) | Pindorama (`pindorama_area`) | `subtropical` | `forest` | `fruit` | `fruit` | ? | `fruit` | `america_tropical_orchard` |  |
+| Borun (`borun`) | Urucu (`urucu_province`) | Pindorama (`pindorama_area`) | `tropical` | `forest` | `fruit` | `fruit` | ? | `fruit` | `america_tropical_orchard` |  |
+| Auwe (`auwe`) | Araguaia (`araguaia_province`) | Tocantins (`tocantins_area`) | `tropical` | `grasslands` | `fruit` | `fruit` | ? | `fruit` | `america_tropical_orchard` |  |
+| Itya Mahãdu (`itya_mahadu`) | Araguaia (`araguaia_province`) | Tocantins (`tocantins_area`) | `tropical` | `forest` | `fruit` | `fruit` | ? | `fruit` | `america_tropical_orchard` |  |
 
-### Britain (`great_britain_region`) ? 10 locations
+### Britain (`great_britain_region`) ? 9 locations
 
 | Location | Province | Area | Climate | Vegetation | Vanilla RGO | Global Historical RGO | Just Goods startup | Effective start | Proposed RGO | Review notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -351,8 +351,7 @@ listed areas; those cells show the exact scope ID.
 | Winchester (`winchester`) | Hampshire (`hampshire_province`) | Home Counties (`home_counties_area`) | `oceanic` | `farmland` | `fruit` | `fruit` | ? | `fruit` | `temperate_orchard` |  |
 | Rochester (`rochester`) | Kent (`kent_province`) | Home Counties (`home_counties_area`) | `oceanic` | `grasslands` | `fruit` | `fruit` | ? | `fruit` | `temperate_orchard` |  |
 | Dundee (`dundee`) | Angus (`angus_province`) | Lowlands (`scottish_lowlands_area`) | `oceanic` | `grasslands` | `fruit` | `fruit` | ? | `fruit` | `temperate_orchard` |  |
-| Selkirk (`selkirk`) | Teviotdale (`teviotdale_province`) | Lowlands (`scottish_lowlands_area`) | `oceanic` | `woods` | `fruit` | `fruit` | ? | `fruit` | `wool` | Swap the local fruit assignment to neighboring Roxburgh. |
-| Roxburgh (`roxburgh`) | Teviotdale (`teviotdale_province`) | Lowlands (`scottish_lowlands_area`) | `oceanic` | `grasslands` | `beeswax` | `wool` | ? | `wool` | `temperate_orchard` | Receives the orchard assignment swapped from Selkirk. |
+| Selkirk (`selkirk`) | Teviotdale (`teviotdale_province`) | Lowlands (`scottish_lowlands_area`) | `oceanic` | `woods` | `fruit` | `fruit` | ? | `fruit` | `wool` | Swap the local fruit assignment to neighboring Roxburgh (`roxburgh`), replacing Roxburgh's effective-start `wool` with `temperate_orchard`. |
 | Monmouth (`monmouth`) | Glamorgan (`glamorgan_province`) | Wales (`wales_area`) | `oceanic` | `woods` | `fruit` | `fruit` | ? | `fruit` | `stonefruit_orchard` |  |
 | Cheltenham (`cheltenham`) | Gloucestershire (`gloucestershire_province`) | West Country (`west_country_area`) | `oceanic` | `grasslands` | `fruit` | `fruit` | ? | `fruit` | `temperate_orchard` |  |
 | Taunton (`taunton`) | Somerset (`somerset_province`) | West Country (`west_country_area`) | `oceanic` | `grasslands` | `fruit` | `fruit` | ? | `fruit` | `temperate_orchard` |  |
@@ -368,14 +367,14 @@ listed areas; those cells show the exact scope ID.
 
 | Location | Province | Area | Climate | Vegetation | Vanilla RGO | Global Historical RGO | Just Goods startup | Effective start | Proposed RGO | Review notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Eleuthera (`eleuthera`) | Lucayas (`bahamas_province`) | Cuba (`cuba_area`) | `tropical` | `forest` | `fruit` | `fruit` | ? | `fruit` | `newworld_tropical_orchard` |  |
-| Jumento (`jumento`) | Lucayas (`bahamas_province`) | Cuba (`cuba_area`) | `tropical` | `grasslands` | `fruit` | `fruit` | ? | `fruit` | `newworld_tropical_orchard` |  |
-| Macaca (`macaca`) | Bayamo (`bayamo_province`) | Cuba (`cuba_area`) | `tropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `newworld_tropical_orchard` |  |
-| Habana (`habana`) | Havana (`havana_province`) | Cuba (`cuba_area`) | `tropical` | `woods` | `fruit` | `fruit` | ? | `fruit` | `newworld_tropical_orchard` |  |
-| Jagua (`jagua`) | Havana (`havana_province`) | Cuba (`cuba_area`) | `tropical` | `grasslands` | `fruit` | `fruit` | ? | `fruit` | `newworld_tropical_orchard` |  |
-| Ayamaco (`ayamaco`) | Boriken (`boriken_province`) | `hispaniola_area` | `tropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `newworld_tropical_orchard` |  |
-| Yuma (`yuma`) | Higüey (`higuey_province`) | `hispaniola_area` | `tropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `newworld_tropical_orchard` |  |
-| Haniguayagua (`haniguayagua`) | Jaragua (`jaragua_province`) | `hispaniola_area` | `tropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `newworld_tropical_orchard` |  |
+| Eleuthera (`eleuthera`) | Lucayas (`bahamas_province`) | Cuba (`cuba_area`) | `tropical` | `forest` | `fruit` | `fruit` | ? | `fruit` | `america_tropical_orchard` |  |
+| Jumento (`jumento`) | Lucayas (`bahamas_province`) | Cuba (`cuba_area`) | `tropical` | `grasslands` | `fruit` | `fruit` | ? | `fruit` | `america_tropical_orchard` |  |
+| Macaca (`macaca`) | Bayamo (`bayamo_province`) | Cuba (`cuba_area`) | `tropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `america_tropical_orchard` |  |
+| Habana (`habana`) | Havana (`havana_province`) | Cuba (`cuba_area`) | `tropical` | `woods` | `fruit` | `fruit` | ? | `fruit` | `america_tropical_orchard` |  |
+| Jagua (`jagua`) | Havana (`havana_province`) | Cuba (`cuba_area`) | `tropical` | `grasslands` | `fruit` | `fruit` | ? | `fruit` | `america_tropical_orchard` |  |
+| Ayamaco (`ayamaco`) | Boriken (`boriken_province`) | `hispaniola_area` | `tropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `america_tropical_orchard` |  |
+| Yuma (`yuma`) | Higüey (`higuey_province`) | `hispaniola_area` | `tropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `america_tropical_orchard` |  |
+| Haniguayagua (`haniguayagua`) | Jaragua (`jaragua_province`) | `hispaniola_area` | `tropical` | `jungle` | `fruit` | `fruit` | ? | `fruit` | `america_tropical_orchard` |  |
 
 ### Carpathia (`carpathia_region`) ? 11 locations
 
