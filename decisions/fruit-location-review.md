@@ -141,10 +141,10 @@ listed areas; those cells show the exact scope ID.
 | Location | Province | Area | Climate | Vegetation | Vanilla RGO | Global Historical RGO | Just Goods startup | Effective start | Proposed RGO | Review notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | İskenderun (`iskenderun`) | Adana (`adana_province`) | Cilicia (`cilicia_area`) | `mediterranean` | `forest` | `fruit` | `fruit` | ? | `fruit` | `citrus_orchard` |  |
-| Malatya (`malatya`) | Malatya (`malatya_province`) | Cilicia (`cilicia_area`) | `cold_semi_arid` | `grasslands` | `fruit` | `fruit` | ? | `fruit` | `stonefruit_orchard` |  |
-| Mudurnu (`mudurnu`) | Bolu (`bolu_province`) | Pontus (`pontus_area`) | `continental` | `forest` | `fruit` | `fruit` | ? | `fruit` | `stonefruit_orchard` |  |
-| Amasra (`amasra`) | Safranbolu (`safranbolu_province`) | Pontus (`pontus_area`) | `oceanic` | `forest` | `fruit` | `fruit` | ? | `fruit` | `stonefruit_orchard` |  |
-| Gerze (`gerze`) | Sinop (`sinop_province`) | Pontus (`pontus_area`) | `oceanic` | `forest` | `fruit` | `fruit` | ? | `fruit` | `stonefruit_orchard` |  |
+| Malatya (`malatya`) | Malatya (`malatya_province`) | Cilicia (`cilicia_area`) | `cold_semi_arid` | `grasslands` | `fruit` | `fruit` | ? | `fruit` | `eurasia_stonefruit_orchard` |  |
+| Mudurnu (`mudurnu`) | Bolu (`bolu_province`) | Pontus (`pontus_area`) | `continental` | `forest` | `fruit` | `fruit` | ? | `fruit` | `eurasia_stonefruit_orchard` |  |
+| Amasra (`amasra`) | Safranbolu (`safranbolu_province`) | Pontus (`pontus_area`) | `oceanic` | `forest` | `fruit` | `fruit` | ? | `fruit` | `eurasia_stonefruit_orchard` |  |
+| Gerze (`gerze`) | Sinop (`sinop_province`) | Pontus (`pontus_area`) | `oceanic` | `forest` | `fruit` | `fruit` | ? | `fruit` | `eurasia_stonefruit_orchard` |  |
 | Karahisar-ı Teke (`karahisar_i_teke`) | Alaiye (`alaiye_province`) | West Anatolia (`west_anatolia_area`) | `mediterranean` | `forest` | `fruit` | `fruit` | ? | `fruit` | `mediterranean_orchard` |  |
 | Marmaris (`marmaris`) | Muğla (`mugla_province`) | West Anatolia (`west_anatolia_area`) | `mediterranean` | `forest` | `fruit` | `fruit` | ? | `fruit` | `mediterranean_orchard` |  |
 
@@ -183,7 +183,7 @@ listed areas; those cells show the exact scope ID.
 | `al_ukhaydir` | Tabūk (`tabuk_province`) | Hejaz (`hedjaz_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` | `grapes` |  |
 | `tabuk_arabia` | Tabūk (`tabuk_province`) | Hejaz (`hedjaz_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` | `grapes` |  |
 | `al_kharabah` | Aṭ-Ṭā'if (`taif_province`) | Hejaz (`hedjaz_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` | `mediterranean_orchard` |  |
-| Sufaynah (`sufaynah`) | Aṭ-Ṭā'if (`taif_province`) | Hejaz (`hedjaz_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` | `stonefruit_orchard` |  |
+| Sufaynah (`sufaynah`) | Aṭ-Ṭā'if (`taif_province`) | Hejaz (`hedjaz_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` | `eurasia_stonefruit_orchard` |  |
 | Umm al-Ghiran (`umm_al_ghiran`) | Aṭ-Ṭā'if (`taif_province`) | Hejaz (`hedjaz_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` | `grapes` |  |
 | `al_hawra` | Umluj (`umluj_province`) | Hejaz (`hedjaz_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` | `mango` |  |
 | `yanbu_an_nakhil` | Yanbu' (`yanbu_province`) | Hejaz (`hedjaz_area`) | `arid` | `desert` | `fruit` | `fruit` | ? | `fruit` | `datepalm` |  |
@@ -261,36 +261,36 @@ listed areas; those cells show the exact scope ID.
 | Location | Province | Area | Climate | Vegetation | Vanilla RGO | Global Historical RGO | Just Goods startup | Effective start | Proposed RGO | Review notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Amorgós (`amorgos`) | Naxos (`naxos_province`) | Aegean Archipelago (`aegean_archipelago_area`) | `mediterranean` | `sparse` | `silk` | `fruit` | ? | `fruit` | `silk` |  |
-| Kozara (`kozara`) | Sana (`una_sana_province`) | Bosnia (`bosnia_area`) | `continental` | `woods` | `fruit` | `fruit` | ? | `fruit` | `temperate_orchard` |  |
-| Buzet (`buzet`) | Istria (`istria_province`) | Croatia (`croatia_area`) | `oceanic` | `woods` | `fruit` | `fruit` | ? | `fruit` | `stonefruit_orchard` |  |
-| Novigrad (`novigrad`) | Northern Dalmatia (`north_dalmatia_province`) | Croatia (`croatia_area`) | `oceanic` | `woods` | `fruit` | `fruit` | ? | `fruit` | `stonefruit_orchard` |  |
+| Kozara (`kozara`) | Sana (`una_sana_province`) | Bosnia (`bosnia_area`) | `continental` | `woods` | `fruit` | `fruit` | ? | `fruit` | `eurasia_temperate_orchard` |  |
+| Buzet (`buzet`) | Istria (`istria_province`) | Croatia (`croatia_area`) | `oceanic` | `woods` | `fruit` | `fruit` | ? | `fruit` | `eurasia_stonefruit_orchard` |  |
+| Novigrad (`novigrad`) | Northern Dalmatia (`north_dalmatia_province`) | Croatia (`croatia_area`) | `oceanic` | `woods` | `fruit` | `fruit` | ? | `fruit` | `eurasia_stonefruit_orchard` |  |
 | Andrítsaina (`andritsaina`) | Ilia (`ilia_province`) | Morea (`morea_area`) | `mediterranean` | `woods` | `fruit` | `fruit` | ? | `fruit` | `silk` |  |
 | Kérkyra (`corfu`) | Ionian Islands (`ionian_islands_province`) | Northern Greece (`northern_greece_area`) | `mediterranean` | `forest` | `fruit` | `fruit` | ? | `fruit` | `grapes` |  |
 | Árta (`arta`) | Southern Epirus (`south_epirus_province`) | Northern Greece (`northern_greece_area`) | `mediterranean` | `grasslands` | `fruit` | `fruit` | ? | `fruit` | `citrus_orchard` |  |
 | Fársala (`farsala`) | Thessaly (`thessaly_province`) | Northern Greece (`northern_greece_area`) | `mediterranean` | `farmland` | `fruit` | `fruit` | ? | `fruit` | `livestock` |  |
 | Peja (`peja`) | Kosovo (`kosovo_province`) | Serbia (`serbia_area`) | `subtropical` | `grasslands` | `fruit` | `fruit` | ? | `fruit` | `silk` |  |
-| Jagodina (`jagodina`) | Toplica (`toplica_province`) | Serbia (`serbia_area`) | `continental` | `grasslands` | `fruit` | `fruit` | ? | `fruit` | `temperate_orchard` |  |
-| Arilje (`arilje`) | Zlatibor (`zlatibor_province`) | Serbia (`serbia_area`) | `continental` | `forest` | `fruit` | `fruit` | ? | `fruit` | `temperate_orchard` |  |
+| Jagodina (`jagodina`) | Toplica (`toplica_province`) | Serbia (`serbia_area`) | `continental` | `grasslands` | `fruit` | `fruit` | ? | `fruit` | `eurasia_temperate_orchard` |  |
+| Arilje (`arilje`) | Zlatibor (`zlatibor_province`) | Serbia (`serbia_area`) | `continental` | `forest` | `fruit` | `fruit` | ? | `fruit` | `eurasia_temperate_orchard` |  |
 | Pakrac (`pakrac`) | Podravina (`bjelovar_province`) | Slavonia (`slavonia_area`) | `continental` | `woods` | `fruit` | `fruit` | ? | `fruit` | `grapes` |  |
 | Hayrabolu (`hayrabolu`) | Dardanelles (`dardanelles_province`) | Thrace (`thrace_area`) | `mediterranean` | `grasslands` | `fur` | `fruit` | ? | `fruit` | `mediterranean_orchard` |  |
 | Ormenio (`ormenio`) | Rhodopes (`rhodopes_province`) | Thrace (`thrace_area`) | `subtropical` | `woods` | `wine` | `fruit` | ? | `fruit` | `grapes` |  |
-| Strelcha (`strelcha`) | Zagore (`zagore_province`) | Thrace (`thrace_area`) | `subtropical` | `woods` | `fruit` | `fruit` | ? | `fruit` | `stonefruit_orchard` |  |
+| Strelcha (`strelcha`) | Zagore (`zagore_province`) | Thrace (`thrace_area`) | `subtropical` | `woods` | `fruit` | `fruit` | ? | `fruit` | `eurasia_stonefruit_orchard` |  |
 
 ### Baltic (`baltic_region`) ? 11 locations
 
 | Location | Province | Area | Climate | Vegetation | Vanilla RGO | Global Historical RGO | Just Goods startup | Effective start | Proposed RGO | Review notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Tukums (`tukums`) | Semigalia (`semigalia_province`) | `baltic_area` | `continental` | `woods` | `fur` | `fruit` | ? | `fruit` | `temperate_orchard` |  |
-| Kowal (`kowal`) | Kuyavia (`kuyavia_province`) | Central Poland (`central_poland_area`) | `continental` | `grasslands` | `wool` | `fruit` | ? | `fruit` | `stonefruit_orchard` |  |
-| Uniejów (`uniejow`) | Sieradz (`sieradz_province`) | Central Poland (`central_poland_area`) | `continental` | `woods` | `wool` | `fruit` | ? | `fruit` | `temperate_orchard` |  |
-| Wschowa (`wschowa`) | Kościan (`koscian_province`) | Greater Poland (`greater_poland_area`) | `continental` | `woods` | `fruit` | `fruit` | ? | `fruit` | `temperate_orchard` |  |
-| Chodzież (`chodziez`) | Żnin (`znin_province`) | Greater Poland (`greater_poland_area`) | `continental` | `woods` | `iron` | `fruit` | ? | `fruit` | `temperate_orchard` |  |
-| Kaunas (`kaunas`) | Kaunas (`kaunas_province`) | Lithuania (`lithuania_area`) | `continental` | `woods` | `wool` | `fruit` | ? | `fruit` | `temperate_orchard` |  |
+| Tukums (`tukums`) | Semigalia (`semigalia_province`) | `baltic_area` | `continental` | `woods` | `fur` | `fruit` | ? | `fruit` | `eurasia_temperate_orchard` |  |
+| Kowal (`kowal`) | Kuyavia (`kuyavia_province`) | Central Poland (`central_poland_area`) | `continental` | `grasslands` | `wool` | `fruit` | ? | `fruit` | `eurasia_stonefruit_orchard` |  |
+| Uniejów (`uniejow`) | Sieradz (`sieradz_province`) | Central Poland (`central_poland_area`) | `continental` | `woods` | `wool` | `fruit` | ? | `fruit` | `eurasia_temperate_orchard` |  |
+| Wschowa (`wschowa`) | Kościan (`koscian_province`) | Greater Poland (`greater_poland_area`) | `continental` | `woods` | `fruit` | `fruit` | ? | `fruit` | `eurasia_temperate_orchard` |  |
+| Chodzież (`chodziez`) | Żnin (`znin_province`) | Greater Poland (`greater_poland_area`) | `continental` | `woods` | `iron` | `fruit` | ? | `fruit` | `eurasia_temperate_orchard` |  |
+| Kaunas (`kaunas`) | Kaunas (`kaunas_province`) | Lithuania (`lithuania_area`) | `continental` | `woods` | `wool` | `fruit` | ? | `fruit` | `eurasia_temperate_orchard` |  |
 | Wehlau (`wehlau`) | Lower Prussia (`lower_prussia_province`) | Prussia (`prussia_area`) | `continental` | `woods` | `fur` | `fruit` | ? | `fruit` | `wheat` |  |
-| Morąg (`morag`) | Upper Prussia (`upper_prussia_province`) | Prussia (`prussia_area`) | `continental` | `woods` | `fruit` | `fruit` | ? | `fruit` | `temperate_orchard` |  |
-| Góra (`gora`) | Głogów (`glogow_province`) | Silesia (`silesia_area`) | `continental` | `woods` | `wool` | `fruit` | ? | `fruit` | `temperate_orchard` |  |
+| Morąg (`morag`) | Upper Prussia (`upper_prussia_province`) | Prussia (`prussia_area`) | `continental` | `woods` | `fruit` | `fruit` | ? | `fruit` | `eurasia_temperate_orchard` |  |
+| Góra (`gora`) | Głogów (`glogow_province`) | Silesia (`silesia_area`) | `continental` | `woods` | `wool` | `fruit` | ? | `fruit` | `eurasia_temperate_orchard` |  |
 | Złotoryja (`zlotoryja`) | Legnica (`legnica_province`) | Silesia (`silesia_area`) | `continental` | `grasslands` | `goods_gold` | `fruit` | ? | `fruit` | `stone` |  |
-| Brzeg (`brzeg`) | Wrocław (`wroclaw_province`) | Silesia (`silesia_area`) | `continental` | `farmland` | `fruit` | `fruit` | ? | `fruit` | `stonefruit_orchard` |  |
+| Brzeg (`brzeg`) | Wrocław (`wroclaw_province`) | Silesia (`silesia_area`) | `continental` | `farmland` | `fruit` | `fruit` | ? | `fruit` | `eurasia_stonefruit_orchard` |  |
 
 ### Bengal (`bengal_region`) ? 19 locations
 
@@ -346,15 +346,15 @@ listed areas; those cells show the exact scope ID.
 
 | Location | Province | Area | Climate | Vegetation | Vanilla RGO | Global Historical RGO | Just Goods startup | Effective start | Proposed RGO | Review notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Royston (`royston`) | Cambridgeshire (`cambridgeshire_province`) | East Anglia (`east_anglia_area`) | `oceanic` | `grasslands` | `wheat` | `fruit` | ? | `fruit` | `temperate_orchard` |  |
-| Norwich (`norwich`) | Norfolk (`norfolk_province`) | East Anglia (`east_anglia_area`) | `oceanic` | `farmland` | `fruit` | `fruit` | ? | `fruit` | `temperate_orchard` |  |
-| Winchester (`winchester`) | Hampshire (`hampshire_province`) | Home Counties (`home_counties_area`) | `oceanic` | `farmland` | `fruit` | `fruit` | ? | `fruit` | `temperate_orchard` |  |
-| Rochester (`rochester`) | Kent (`kent_province`) | Home Counties (`home_counties_area`) | `oceanic` | `grasslands` | `fruit` | `fruit` | ? | `fruit` | `temperate_orchard` |  |
-| Dundee (`dundee`) | Angus (`angus_province`) | Lowlands (`scottish_lowlands_area`) | `oceanic` | `grasslands` | `fruit` | `fruit` | ? | `fruit` | `temperate_orchard` |  |
-| Selkirk (`selkirk`) | Teviotdale (`teviotdale_province`) | Lowlands (`scottish_lowlands_area`) | `oceanic` | `woods` | `fruit` | `fruit` | ? | `fruit` | `wool` | Swap the local fruit assignment to neighboring Roxburgh (`roxburgh`), replacing Roxburgh's effective-start `wool` with `temperate_orchard`. |
-| Monmouth (`monmouth`) | Glamorgan (`glamorgan_province`) | Wales (`wales_area`) | `oceanic` | `woods` | `fruit` | `fruit` | ? | `fruit` | `stonefruit_orchard` |  |
-| Cheltenham (`cheltenham`) | Gloucestershire (`gloucestershire_province`) | West Country (`west_country_area`) | `oceanic` | `grasslands` | `fruit` | `fruit` | ? | `fruit` | `temperate_orchard` |  |
-| Taunton (`taunton`) | Somerset (`somerset_province`) | West Country (`west_country_area`) | `oceanic` | `grasslands` | `fruit` | `fruit` | ? | `fruit` | `temperate_orchard` |  |
+| Royston (`royston`) | Cambridgeshire (`cambridgeshire_province`) | East Anglia (`east_anglia_area`) | `oceanic` | `grasslands` | `wheat` | `fruit` | ? | `fruit` | `eurasia_temperate_orchard` |  |
+| Norwich (`norwich`) | Norfolk (`norfolk_province`) | East Anglia (`east_anglia_area`) | `oceanic` | `farmland` | `fruit` | `fruit` | ? | `fruit` | `eurasia_temperate_orchard` |  |
+| Winchester (`winchester`) | Hampshire (`hampshire_province`) | Home Counties (`home_counties_area`) | `oceanic` | `farmland` | `fruit` | `fruit` | ? | `fruit` | `eurasia_temperate_orchard` |  |
+| Rochester (`rochester`) | Kent (`kent_province`) | Home Counties (`home_counties_area`) | `oceanic` | `grasslands` | `fruit` | `fruit` | ? | `fruit` | `eurasia_temperate_orchard` |  |
+| Dundee (`dundee`) | Angus (`angus_province`) | Lowlands (`scottish_lowlands_area`) | `oceanic` | `grasslands` | `fruit` | `fruit` | ? | `fruit` | `eurasia_temperate_orchard` |  |
+| Selkirk (`selkirk`) | Teviotdale (`teviotdale_province`) | Lowlands (`scottish_lowlands_area`) | `oceanic` | `woods` | `fruit` | `fruit` | ? | `fruit` | `wool` | Swap the local fruit assignment to neighboring Roxburgh (`roxburgh`), replacing Roxburgh's effective-start `wool` with `eurasia_temperate_orchard`. |
+| Monmouth (`monmouth`) | Glamorgan (`glamorgan_province`) | Wales (`wales_area`) | `oceanic` | `woods` | `fruit` | `fruit` | ? | `fruit` | `eurasia_stonefruit_orchard` |  |
+| Cheltenham (`cheltenham`) | Gloucestershire (`gloucestershire_province`) | West Country (`west_country_area`) | `oceanic` | `grasslands` | `fruit` | `fruit` | ? | `fruit` | `eurasia_temperate_orchard` |  |
+| Taunton (`taunton`) | Somerset (`somerset_province`) | West Country (`west_country_area`) | `oceanic` | `grasslands` | `fruit` | `fruit` | ? | `fruit` | `eurasia_temperate_orchard` |  |
 
 ### Canada (`canada_region`) ? 2 locations
 

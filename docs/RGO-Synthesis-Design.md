@@ -54,8 +54,8 @@ World / New World agricultural origins.
 | Synthesis category                | Fruits Expanded RGOs represented                                                                          | Design intent                                                                                             |
 | --------------------------------- | --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
 | Africa orchards (`africa_orchard`) | Safou, baobab, marula, African star apple, and similar indigenous African tree crops | Represent indigenous African orchard and agroforestry systems without treating them as part of the Asia tropical orchard category. |
-| Temperate fruit orchards          | Apples, Western Pears, Eastern Pears, Persimmons                                                          | Combine temperate orchard fruits into one economic category.                                              |
-| Stone fruit orchards              | Plums, Peaches, Cherries                                                                                  | Combine related stone-fruit orchard crops.                                                                |
+| Eurasia temperate orchards (`eurasia_temperate_orchard`) | Apples, Western Pears, Eastern Pears, Persimmons                                      | Combine temperate Eurasian orchard fruits into one economic category.                                     |
+| Eurasia stone-fruit orchards (`eurasia_stonefruit_orchard`) | Plums, Peaches, Cherries                                                           | Combine related Eurasian stone-fruit orchard crops.                                                       |
 | Mediterranean fruit orchards      | Figs, Pomegranates                                                                                        | Represent distinctive Mediterranean and semi-arid fruit cultivation together.                             |
 | Citrus orchards                   | Lemons, both Orange types, Mandarins                                                                      | Consolidate related citrus crops.                                                                         |
 | Asia tropical orchards (`asia_tropical_orchard`) | Jackfruit, breadfruit, durian, rambutan, mangosteen, lychees, and similar indigenous Asian tree crops | Represent diverse Asian tropical orchards and agroforestry without individual goods for each species.      |
@@ -80,9 +80,9 @@ RGO; they are abstracted within the appropriate tree-fruit categories.
 Synthesis divides vanilla `fruit` into geographically and climatically
 meaningful agricultural categories:
 
-- Temperate fruit orchards for continental or temperate apples and pears.
-- Stone fruit orchards for regionally appropriate plums, peaches, and
-  cherries.
+- Eurasia temperate orchards for continental or temperate apples and pears.
+- Eurasia stone-fruit orchards for regionally appropriate plums, peaches,
+  and cherries.
 - Mediterranean fruit orchards for figs and pomegranates.
 - Citrus orchards for lemons, oranges, mandarins, and similar citrus.
 - Africa orchards for indigenous African orchard and agroforestry systems.
@@ -223,7 +223,7 @@ and keep the feature compatible with the final fruit-good taxonomy.
 
 The goal is greater historical and economic differentiation with fewer
 unnecessary commodity types—not simply increasing the total number of RGOs.
-The intended system distinguishes European temperate orchards, Mediterranean
-fruit cultivation, Middle Eastern and Saharan date palms, Asia tropical
-orchards and Old World tubers, America tropical orchards and New World tubers,
-and Pacific coconut-based agricultural economies.
+The intended system distinguishes Eurasia temperate and stone-fruit orchards,
+Mediterranean fruit cultivation, Middle Eastern and Saharan date palms, Asia
+tropical orchards and Old World tubers, America tropical orchards and New
+World tubers, and Pacific coconut-based agricultural economies.

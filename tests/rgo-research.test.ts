@@ -499,7 +499,7 @@ test("Grokipedia uses exact public search results and reports article evidence",
         <h1>Example</h1>
         <div class="article-body">
           <h2>History</h2>
-          <p>Temperate orchard cultivation was recorded by 1200.
+          <p>Eurasia temperate orchard cultivation was recorded by 1200.
             <a href="https://example.org/history">Reference</a></p>
         </div>
       </body></html>`;
@@ -551,7 +551,7 @@ test("Grokipedia uses exact public search results and reports article evidence",
     assert.ok(article.sections[0].pre1337Years.includes(1200));
     assert.ok(
       article.sections[0].cropMatches.some(
-        (match) => match.goodId === "temperate_orchard",
+        (match) => match.goodId === "eurasia_temperate_orchard",
       ),
     );
     assert.ok(
@@ -1370,7 +1370,7 @@ test("Wikipedia research extracts relevant sections, years, citations, and crop 
     assert.equal(article.sections[0].truncated, true);
     assert.ok(
       article.sections[0].cropMatches.some(
-        (match) => match.goodId === "temperate_orchard",
+        (match) => match.goodId === "eurasia_temperate_orchard",
       ),
     );
     assert.deepEqual(article.sections[0].citationUrls, [
@@ -1391,7 +1391,7 @@ test("Wikipedia research extracts relevant sections, years, citations, and crop 
         .slice(1)
         .some(
           (row) =>
-            row[goodIdIndex] === "temperate_orchard" &&
+            row[goodIdIndex] === "eurasia_temperate_orchard" &&
             row[validIndex] === "FALSE",
         ),
     );

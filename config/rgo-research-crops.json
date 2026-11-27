@@ -111,7 +111,7 @@
       }
     },
     {
-      "id": "stonefruit_orchard",
+      "id": "eurasia_stonefruit_orchard",
       "aliases": {
         "en": ["plum", "peach", "cherry", "apricot"],
         "fr": ["prune", "pêche", "cerise", "abricot"],
@@ -131,7 +131,7 @@
       }
     },
     {
-      "id": "temperate_orchard",
+      "id": "eurasia_temperate_orchard",
       "aliases": {
         "en": ["apple", "pear", "quince"],
         "fr": ["pomme", "poire", "coing"],
